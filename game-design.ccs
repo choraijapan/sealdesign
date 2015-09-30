@@ -1,0 +1,27 @@
+<Solution>
+  <PropertyGroup Name="game-design" Version="2.3.0.1" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="scene">
+          <Folder Name="game">
+            <Project Name="GameScene.csd" Type="Scene" />
+          </Folder>
+        </Folder>
+        <Folder Name="images">
+          <Image Name="10002.png" />
+          <Image Name="10003.png" />
+          <Image Name="10001.png" />
+          <Image Name="10004.png" />
+          <Image Name="10005.png" />
+          <Image Name="10006.png" />
+        </Folder>
+        <Folder Name="parts">
+          <Folder Name="game">
+            <Project Name="GameCardNode.csd" Type="Node" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
