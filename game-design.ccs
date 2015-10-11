@@ -125,8 +125,6 @@
             <Folder Name="character" />
           </Folder>
           <Folder Name="effect" />
-          <Project Name="hero.csd" Type="Node" />
-          <Project Name="Layer.csd" Type="Layer" />
         </Folder>
         <Folder Name="layer">
           <Project Name="WorldMapLayer.csd" Type="Layer" />
