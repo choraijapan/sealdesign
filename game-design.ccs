@@ -4,10 +4,10 @@
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
         <Folder Name="scene">
-          <Folder Name="game">
-            <Project Name="GameScene.csd" Type="Scene" />
-          </Folder>
           <Project Name="MenuScene.csd" Type="Scene" />
+          <Folder Name="puzzle">
+            <Project Name="PuzzleScene.csd" Type="Scene" />
+          </Folder>
         </Folder>
         <Folder Name="images">
           <Image Name="10002.png" />
@@ -125,8 +125,6 @@
             <Folder Name="character" />
           </Folder>
           <Folder Name="effect" />
-          <Project Name="hero.csd" Type="Node" />
-          <Project Name="Layer.csd" Type="Layer" />
         </Folder>
         <Folder Name="layer">
           <Project Name="WorldMapLayer.csd" Type="Layer" />
