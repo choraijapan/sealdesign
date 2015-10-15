@@ -29,7 +29,11 @@
     </Item>
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
-        <ActiveDocument />
+        <OpenedDocuments>
+          <FilePathData Path="scene/puzzle/PuzzleScene.csd" />
+          <FilePathData Path="parts/puzzle/PuzzleCardNode.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="parts/puzzle/PuzzleCardNode.csd" />
       </Value>
     </Item>
   </Properties>

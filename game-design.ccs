@@ -118,8 +118,8 @@
           </Folder>
         </Folder>
         <Folder Name="parts">
-          <Folder Name="game">
-            <Project Name="GameCardNode.csd" Type="Node" />
+          <Folder Name="puzzle">
+            <Project Name="PuzzleCardNode.csd" Type="Node" />
           </Folder>
           <Folder Name="animation">
             <Folder Name="character" />

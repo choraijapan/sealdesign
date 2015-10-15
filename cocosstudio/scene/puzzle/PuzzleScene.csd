@@ -1,5 +1,5 @@
 <GameProjectFile>
-  <PropertyGroup Type="Scene" Name="GameScene" ID="a2ee0952-26b5-49ae-8bf9-4f1d6279b798" Version="2.3.0.1" />
+  <PropertyGroup Type="Scene" Name="PuzzleScene" ID="a2ee0952-26b5-49ae-8bf9-4f1d6279b798" Version="2.3.0.1" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition Y="0.5833" />
             <PreSize />
-            <FileData Type="Normal" Path="parts/game/GameCardNode.csd" Plist="" />
+            <FileData Type="Normal" Path="parts/puzzle/PuzzleCardNode.csd" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
