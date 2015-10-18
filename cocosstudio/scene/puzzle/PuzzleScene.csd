@@ -6,15 +6,20 @@
       <ObjectData Name="Scene" ctype="GameNodeObjectData">
         <Size X="640.0000" Y="960.0000" />
         <Children>
-          <AbstractNodeData Name="GameCardNode" ActionTag="-1305580988" Tag="264" IconVisible="True" HorizontalEdge="BothEdge" VerticalEdge="TopEdge" RightMargin="640.0000" TopMargin="400.0000" BottomMargin="560.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
-            <Size />
-            <AnchorPoint />
-            <Position Y="560.0000" />
+          <AbstractNodeData Name="Btn_Refresh" ActionTag="528827711" Tag="20" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="577.7370" RightMargin="16.2630" TopMargin="895.8667" BottomMargin="18.1333" TouchEnable="True" FontSize="14" ButtonText="R" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" ctype="ButtonObjectData">
+            <Size X="46.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="600.7370" Y="41.1333" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition Y="0.5833" />
-            <PreSize />
-            <FileData Type="Normal" Path="parts/puzzle/PuzzleCardNode.csd" Plist="" />
+            <PrePosition X="0.9387" Y="0.0428" />
+            <PreSize X="0.0719" Y="0.0479" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
+            <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
