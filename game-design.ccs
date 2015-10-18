@@ -116,6 +116,10 @@
             <Image Name="2_00003.png" />
             <Image Name="2_00004.png" />
           </Folder>
+          <Folder Name="Boss">
+            <Image Name="20151018.png" />
+            <Image Name="20151019.png" />
+          </Folder>
         </Folder>
         <Folder Name="parts">
           <Folder Name="puzzle">
