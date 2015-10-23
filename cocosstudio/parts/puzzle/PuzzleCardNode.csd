@@ -1,76 +1,81 @@
 <GameProjectFile>
-  <PropertyGroup Type="Node" Name="GameCardNode" ID="e504a7b1-00a5-4acb-b523-74b9b9821297" Version="2.3.0.1" />
+  <PropertyGroup Type="Node" Name="PuzzleCardNode" ID="e504a7b1-00a5-4acb-b523-74b9b9821297" Version="2.3.0.1" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
       <ObjectData Name="Node" Tag="257" ctype="GameNodeObjectData">
         <Size />
         <Children>
-          <AbstractNodeData Name="Sprite_1" ActionTag="-1130779346" Tag="258" IconVisible="False" LeftMargin="-94.2810" RightMargin="-205.7190" TopMargin="-204.7887" BottomMargin="-95.2113" ctype="SpriteObjectData">
-            <Size X="300.0000" Y="300.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="55.7190" Y="54.7887" />
-            <Scale ScaleX="0.5000" ScaleY="0.5000" />
+          <AbstractNodeData Name="CardNode" ActionTag="364611800" Tag="91" IconVisible="True" ctype="SingleNodeObjectData">
+            <Size />
+            <Children>
+              <AbstractNodeData Name="CardNode_1" ActionTag="-1167209111" Tag="31" IconVisible="True" LeftMargin="56.0000" RightMargin="-56.0000" TopMargin="-54.0000" BottomMargin="54.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+                <Size />
+                <AnchorPoint />
+                <Position X="56.0000" Y="54.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="CardNode_2" ActionTag="1715821748" Tag="35" IconVisible="True" LeftMargin="167.0000" RightMargin="-167.0000" TopMargin="-54.0000" BottomMargin="54.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+                <Size />
+                <AnchorPoint />
+                <Position X="167.0000" Y="54.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="CardNode_3" ActionTag="-105099530" Tag="39" IconVisible="True" LeftMargin="275.0000" RightMargin="-275.0000" TopMargin="-54.0000" BottomMargin="54.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+                <Size />
+                <AnchorPoint />
+                <Position X="275.0000" Y="54.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="CardNode_4" ActionTag="-307694272" Tag="43" IconVisible="True" LeftMargin="380.0000" RightMargin="-380.0000" TopMargin="-54.0000" BottomMargin="54.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+                <Size />
+                <AnchorPoint />
+                <Position X="380.0000" Y="54.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="CardNode_5" ActionTag="-861569405" Tag="47" IconVisible="True" LeftMargin="481.0000" RightMargin="-481.0000" TopMargin="-54.0000" BottomMargin="54.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+                <Size />
+                <AnchorPoint />
+                <Position X="481.0000" Y="54.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="CardNode_6" ActionTag="1185489078" Tag="51" IconVisible="True" LeftMargin="587.0000" RightMargin="-587.0000" TopMargin="-54.0000" BottomMargin="54.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+                <Size />
+                <AnchorPoint />
+                <Position X="587.0000" Y="54.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
-            <FileData Type="Normal" Path="images/10001.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_2" ActionTag="1600253363" Tag="259" IconVisible="False" LeftMargin="15.9415" RightMargin="-315.9415" TopMargin="-204.7887" BottomMargin="-95.2113" ctype="SpriteObjectData">
-            <Size X="300.0000" Y="300.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="165.9415" Y="54.7887" />
-            <Scale ScaleX="0.5000" ScaleY="0.5000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize />
-            <FileData Type="Normal" Path="images/10002.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_3" ActionTag="24676719" Tag="260" IconVisible="False" LeftMargin="124.1640" RightMargin="-424.1640" TopMargin="-204.7887" BottomMargin="-95.2113" ctype="SpriteObjectData">
-            <Size X="300.0000" Y="300.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="274.1640" Y="54.7887" />
-            <Scale ScaleX="0.5000" ScaleY="0.5000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize />
-            <FileData Type="Normal" Path="images/10003.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_4" ActionTag="-527143915" Tag="261" IconVisible="False" LeftMargin="221.7791" RightMargin="-521.7791" TopMargin="-207.0532" BottomMargin="-92.9468" ctype="SpriteObjectData">
-            <Size X="300.0000" Y="300.0000" />
-            <AnchorPoint ScaleX="0.5362" ScaleY="0.4849" />
-            <Position X="382.6463" Y="52.5242" />
-            <Scale ScaleX="0.5000" ScaleY="0.5000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize />
-            <FileData Type="Normal" Path="images/10004.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_5" ActionTag="1313351324" Tag="262" IconVisible="False" LeftMargin="436.4175" RightMargin="-736.4175" TopMargin="-204.7887" BottomMargin="-95.2113" ctype="SpriteObjectData">
-            <Size X="300.0000" Y="300.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="586.4175" Y="54.7887" />
-            <Scale ScaleX="0.5000" ScaleY="0.5000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize />
-            <FileData Type="Normal" Path="images/10005.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_6" ActionTag="1812822941" Tag="263" IconVisible="False" LeftMargin="330.6093" RightMargin="-630.6093" TopMargin="-204.7887" BottomMargin="-95.2113" ctype="SpriteObjectData">
-            <Size X="300.0000" Y="300.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="480.6093" Y="54.7887" />
-            <Scale ScaleX="0.5000" ScaleY="0.5000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize />
-            <FileData Type="Normal" Path="images/10006.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
