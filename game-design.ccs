@@ -129,6 +129,9 @@
             <Folder Name="character" />
           </Folder>
           <Folder Name="effect" />
+          <Folder Name="common">
+            <Project Name="CardNode.csd" Type="Node" />
+          </Folder>
         </Folder>
         <Folder Name="layer">
           <Project Name="WorldMapLayer.csd" Type="Layer" />

@@ -6,7 +6,7 @@
       <ObjectData Name="Scene" ctype="GameNodeObjectData">
         <Size X="640.0000" Y="960.0000" />
         <Children>
-          <AbstractNodeData Name="Btn_Refresh" ActionTag="528827711" Tag="20" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="577.7370" RightMargin="16.2630" TopMargin="895.8667" BottomMargin="18.1333" TouchEnable="True" FontSize="14" ButtonText="R" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Btn_Refresh" ActionTag="528827711" Tag="20" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="577.7370" RightMargin="16.2630" TopMargin="895.8667" BottomMargin="18.1333" TouchEnable="True" FontSize="14" ButtonText="R" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
             <Size X="46.0000" Y="46.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="600.7370" Y="41.1333" />
