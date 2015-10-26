@@ -21,6 +21,16 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
+          <AbstractNodeData Name="FeverTimeBar" ActionTag="-1098809345" Tag="50" IconVisible="False" LeftMargin="122.5000" RightMargin="117.5000" TopMargin="907.0000" BottomMargin="23.0000" StretchWidthEnable="True" StretchHeightEnable="True" ctype="LoadingBarObjectData">
+            <Size X="400.0000" Y="30.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="322.5000" Y="38.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="0" />
+            <PrePosition X="0.5039" Y="0.0396" />
+            <PreSize X="0.6250" Y="0.0313" />
+            <ImageFileData Type="Default" Path="Default/LoadingBarFile.png" Plist="" />
+          </AbstractNodeData>
         </Children>
       </ObjectData>
     </Content>
