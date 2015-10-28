@@ -131,6 +131,7 @@
           <Folder Name="effect" />
           <Folder Name="common">
             <Project Name="CardNode.csd" Type="Node" />
+            <Project Name="BlockLayer.csd" Type="Layer" />
           </Folder>
         </Folder>
         <Folder Name="layer">
