@@ -6,7 +6,7 @@
       <ObjectData Name="Scene" ctype="GameNodeObjectData">
         <Size X="640.0000" Y="960.0000" />
         <Children>
-          <AbstractNodeData Name="Btn_Refresh" ActionTag="528827711" Tag="20" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="577.7370" RightMargin="16.2630" TopMargin="895.8667" BottomMargin="18.1333" TouchEnable="True" FontSize="14" ButtonText="R" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Btn_Refresh" ActionTag="528827711" Tag="20" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="577.7370" RightMargin="16.2630" TopMargin="895.8667" BottomMargin="18.1333" TouchEnable="True" FontSize="14" ButtonText="R" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
             <Size X="46.0000" Y="46.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="600.7370" Y="41.1333" />
@@ -20,16 +20,6 @@
             <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="FeverTimeBar" ActionTag="-1098809345" Tag="50" IconVisible="False" LeftMargin="122.5000" RightMargin="117.5000" TopMargin="907.0000" BottomMargin="23.0000" StretchWidthEnable="True" StretchHeightEnable="True" ctype="LoadingBarObjectData">
-            <Size X="400.0000" Y="30.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="322.5000" Y="38.0000" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="0" />
-            <PrePosition X="0.5039" Y="0.0396" />
-            <PreSize X="0.6250" Y="0.0313" />
-            <ImageFileData Type="Default" Path="Default/LoadingBarFile.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
