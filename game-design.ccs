@@ -124,6 +124,7 @@
         <Folder Name="parts">
           <Folder Name="puzzle">
             <Project Name="PuzzleCardNode.csd" Type="Node" />
+            <Project Name="PuzzlePauseLayer.csd" Type="Layer" />
           </Folder>
           <Folder Name="animation">
             <Folder Name="character" />
@@ -131,7 +132,6 @@
           <Folder Name="effect" />
           <Folder Name="common">
             <Project Name="CardNode.csd" Type="Node" />
-            <Project Name="BlockLayer.csd" Type="Layer" />
           </Folder>
         </Folder>
         <Folder Name="layer">
