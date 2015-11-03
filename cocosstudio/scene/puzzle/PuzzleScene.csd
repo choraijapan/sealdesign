@@ -4,7 +4,7 @@
     <Content>
       <Animation Duration="0" Speed="1.0000" />
       <ObjectData Name="Scene" ctype="GameNodeObjectData">
-        <Size X="640.0000" Y="960.0000" />
+        <Size X="640.0000" Y="1136.0000" />
         <Children>
           <AbstractNodeData Name="puzzle_road_4_2" ActionTag="414809078" Tag="55" IconVisible="False" ctype="SpriteObjectData">
             <Size X="640.0000" Y="960.0000" />
@@ -14,17 +14,28 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
-            <FileData Type="Normal" Path="images/Bg/puzzle_road_5.jpg" Plist="" />
+            <FileData Type="Normal" Path="images/Bg/puzzle_road_8.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Panel_2" ActionTag="462554624" Tag="60" IconVisible="False" TopMargin="360.0000" TouchEnable="True" BackColorAlpha="127" ComboBoxIndex="1" ColorAngle="83.0000" ctype="PanelObjectData">
-            <Size X="640.0000" Y="600.0000" />
+          <AbstractNodeData Name="puzzle_road_1_EndPos_18" ActionTag="-1098909248" Tag="42" IconVisible="False" TopMargin="-329.2205" BottomMargin="859.2204" ctype="SpriteObjectData">
+            <Size X="640.0000" Y="430.0000" />
+            <AnchorPoint />
+            <Position Y="859.2204" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition Y="0.8950" />
+            <PreSize />
+            <FileData Type="Normal" Path="images/Bg/puzzle_road_1_EndPos.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_2" ActionTag="462554624" Tag="60" IconVisible="False" HorizontalEdge="BothEdge" TopMargin="476.0000" TouchEnable="True" StretchWidthEnable="True" StretchHeightEnable="True" BackColorAlpha="127" ComboBoxIndex="1" ColorAngle="83.0000" ctype="PanelObjectData">
+            <Size X="640.0000" Y="660.0000" />
             <AnchorPoint />
             <Position />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
-            <PreSize X="1.0000" Y="0.6250" />
+            <PreSize X="1.0000" Y="0.5810" />
             <SingleColor A="255" R="0" G="0" B="0" />
             <FirstColor A="255" R="0" G="0" B="0" />
             <EndColor A="255" R="0" G="0" B="0" />

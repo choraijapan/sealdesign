@@ -30,6 +30,9 @@
             <Image Name="puzzle_road_5.jpg" />
             <Image Name="puzzle_road_6.jpg" />
             <Image Name="puzzle_road_7.jpg" />
+            <Image Name="puzzle_road_1_EndPos.png" />
+            <Image Name="puzzle_road_1_startPos.png" />
+            <Image Name="puzzle_road_8.jpg" />
           </Folder>
           <Folder Name="Card">
             <Image Name="1_all.png" />
@@ -54,6 +57,7 @@
             <Image Name="BS12.png" />
             <Image Name="BS13.png" />
             <Image Name="BS14.png" />
+            <Image Name="ball_dark.png" />
           </Folder>
           <Folder Name="Navi">
             <Image Name="left_002.png" />
