@@ -22,6 +22,14 @@
             <Image Name="img_bg_3.jpg" />
             <Image Name="img_bg_4.jpg" />
             <Image Name="img_bg_5.jpg" />
+            <Image Name="puzzle_bg_1.jpg" />
+            <Image Name="puzzle_road_1.jpg" />
+            <Image Name="puzzle_road_2.jpg" />
+            <Image Name="puzzle_road_3.jpg" />
+            <Image Name="puzzle_road_4.jpg" />
+            <Image Name="puzzle_road_5.jpg" />
+            <Image Name="puzzle_road_6.jpg" />
+            <Image Name="puzzle_road_7.jpg" />
           </Folder>
           <Folder Name="Card">
             <Image Name="1_all.png" />
@@ -115,6 +123,21 @@
             <Image Name="2_00001.png" />
             <Image Name="2_00003.png" />
             <Image Name="2_00004.png" />
+            <Folder Name="skilleff_blizzard">
+              <PlistImageFolder Image="skille_blizzard.png" PListFile="skille_blizzard.plist" Name=".skille_blizzard_PList.Dir">
+                <PlistImageFile Name="blizzard_0001.png" Key="blizzard_0001.png" />
+                <PlistImageFile Name="blizzard_0002.png" Key="blizzard_0002.png" />
+                <PlistImageFile Name="blizzard_0003.png" Key="blizzard_0003.png" />
+                <PlistImageFile Name="blizzard_0004.png" Key="blizzard_0004.png" />
+                <PlistImageFile Name="blizzard_0005.png" Key="blizzard_0005.png" />
+                <PlistImageFile Name="blizzard_0007.png" Key="blizzard_0007.png" />
+                <PlistImageFile Name="blizzard_0008.png" Key="blizzard_0008.png" />
+                <PlistImageFile Name="blizzard_0009.png" Key="blizzard_0009.png" />
+                <PlistImageFile Name="blizzard_0010.png" Key="blizzard_0010.png" />
+                <PlistImageFile Name="blizzard_0011.png" Key="blizzard_0011.png" />
+              </PlistImageFolder>
+              <Image Name="skille_blizzard.png" />
+            </Folder>
           </Folder>
           <Folder Name="Boss">
             <Image Name="20151018.png" />
