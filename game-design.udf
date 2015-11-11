@@ -27,14 +27,5 @@
         <LastRunType Value="Unknown" />
       </Value>
     </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="scene/puzzle/PuzzleScene.csd" />
-          <FilePathData Path="parts/puzzle/PuzzlePauseLayer.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="parts/puzzle/PuzzlePauseLayer.csd" />
-      </Value>
-    </Item>
   </Properties>
 </UserData>
