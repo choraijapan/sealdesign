@@ -6,31 +6,27 @@
       <ObjectData Name="Scene" ctype="GameNodeObjectData">
         <Size X="640.0000" Y="1136.0000" />
         <Children>
-          <AbstractNodeData Name="puzzle_road" ActionTag="414809078" Tag="55" IconVisible="False" TopMargin="-484.5818" BottomMargin="660.5818" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Bg1" ActionTag="414809078" Tag="55" IconVisible="False" TopMargin="176.0000" ctype="SpriteObjectData">
             <Size X="640.0000" Y="960.0000" />
             <AnchorPoint />
-            <Position Y="660.5818" />
+            <Position />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition Y="0.5815" />
+            <PrePosition />
             <PreSize />
             <FileData Type="Normal" Path="images/Bg/puzzle_road_8.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Btn_Refresh" ActionTag="528827711" Tag="20" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="577.7370" RightMargin="16.2630" TopMargin="1071.8667" BottomMargin="18.1333" TouchEnable="True" FontSize="14" ButtonText="R" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
-            <Size X="46.0000" Y="46.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="600.7370" Y="41.1333" />
+          <AbstractNodeData Name="Bg2" ActionTag="-22736181" Tag="9" IconVisible="False" LeftMargin="2.6447" RightMargin="-2.6447" TopMargin="-783.5145" BottomMargin="959.5145" ctype="SpriteObjectData">
+            <Size X="640.0000" Y="960.0000" />
+            <AnchorPoint />
+            <Position X="2.6447" Y="959.5145" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.9387" Y="0.0362" />
-            <PreSize X="0.0719" Y="0.0479" />
-            <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
-            <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
+            <PrePosition X="0.0041" Y="0.8446" />
+            <PreSize />
+            <FileData Type="Normal" Path="images/Bg/puzzle_road_8.jpg" Plist="" />
+            <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
