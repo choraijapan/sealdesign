@@ -19,10 +19,10 @@
                 <PreSize X="0.0867" Y="0.0833" />
                 <FileData Type="Normal" Path="images/Common/popup_bg1.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="ButtonResume" ActionTag="-1964100169" Tag="29" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="251.6000" RightMargin="5598.3999" TopMargin="5625.0000" BottomMargin="329.0000" TouchEnable="True" FontSize="26" ButtonText="やろうぜ" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="20" BottomEage="20" Scale9OriginX="20" Scale9OriginY="20" Scale9Width="26" Scale9Height="6" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
+              <AbstractNodeData Name="ButtonResume" ActionTag="-1964100169" Tag="29" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="251.4000" RightMargin="5598.6001" TopMargin="5624.7998" BottomMargin="329.2000" TouchEnable="True" FontSize="26" ButtonText="やろうぜ" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="20" BottomEage="20" Scale9OriginX="20" Scale9OriginY="20" Scale9Width="26" Scale9Height="6" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
                 <Size X="150.0000" Y="46.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="326.6000" Y="352.0000" />
+                <Position X="326.4000" Y="352.2000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="230" G="230" B="250" />
                 <PrePosition X="0.0544" Y="0.0587" />
@@ -34,13 +34,13 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Text_1" ActionTag="-1475883282" Tag="30" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="143.4000" RightMargin="5490.6001" TopMargin="5217.2002" BottomMargin="386.8000" FontSize="16" LabelText="人生はただ一度きりで、&#xA;おもしろくするのも、つまらなくするのも、&#xA;自分の選択と考え。&#xA;時というのは、&#xA;止まることなく進み続けていて、&#xA;今、この時、&#xA;自分で考え、選択した結果、&#xA;自分の人生が繋がれていく。&#xA;その選択に、諦めが入っているならば&#xA;諦めた人生だ。&#xA;なるようになるものだけれど、&#xA;もし、それが自分にとって、&#xA;もどかしく、後悔すると思うのなら、&#xA;自分の人生、一度きりだ。&#xA;自分の選択したい未来に向かって、&#xA;飛び込んでみればいい。&#xA;人というのは、&#xA;飯と寝る場所さえあれば、&#xA;とりあえず、死ぬことはない。&#xA;生きてりゃなんとかなるもの。&#xA;もし、やりたいことをやって、失敗に終わっても、&#xA;やらなかったという後悔より、ずーっといいもの。" HorizontalAlignmentType="HT_Center" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="TextObjectData">
-                <Size X="366.0000" Y="396.0000" />
+              <AbstractNodeData Name="Text_1" ActionTag="-1475883282" Tag="30" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="116.4000" RightMargin="5471.6001" TopMargin="5274.0000" BottomMargin="474.0000" FontSize="16" LabelText="リリース日を想像しないで、目の前の事をやりましょう。&#xA;&#xA;難しい事を心配しなくでもいい、やれば行ける。&#xA;&#xA;一つだけ忘れないで、人生は一回しかないです。&#xA;&#xA;４５歳になったら、後悔薬がないですよ。&#xA;いくら払っても買えないですよ。&#xA;&#xA;４５歳になったら、５人一緒にハワイへ&#xA;旅行にいくのは目標ですね、&#xA;会社は費用を払うww&#xA;&#xA;" HorizontalAlignmentType="HT_Center" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="TextObjectData">
+                <Size X="412.0000" Y="252.0000" />
                 <AnchorPoint ScaleY="1.0000" />
-                <Position X="143.4000" Y="782.8000" />
+                <Position X="116.4000" Y="726.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="64" G="5" B="5" />
-                <PrePosition X="0.0239" Y="0.1305" />
+                <CColor A="255" R="59" G="59" B="19" />
+                <PrePosition X="0.0194" Y="0.1210" />
                 <PreSize X="0.0913" Y="0.1727" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
