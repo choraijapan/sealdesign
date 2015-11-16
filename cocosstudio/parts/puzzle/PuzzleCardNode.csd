@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="257" ctype="GameNodeObjectData">
         <Size />
         <Children>
-          <AbstractNodeData Name="CardNode" ActionTag="364611800" Tag="91" IconVisible="True" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="CardNode" ActionTag="364611800" Tag="91" IconVisible="True" TopMargin="-19.0000" BottomMargin="19.0000" ctype="SingleNodeObjectData">
             <Size />
             <Children>
               <AbstractNodeData Name="CardNode_1" ActionTag="-1167209111" Tag="31" IconVisible="True" LeftMargin="60.2401" RightMargin="-60.2401" TopMargin="-71.1072" BottomMargin="71.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
@@ -71,11 +71,34 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position />
+            <Position Y="19.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
+          </AbstractNodeData>
+          <AbstractNodeData Name="HpNode" ActionTag="139479016" Tag="65" IconVisible="False" LeftMargin="57.0000" RightMargin="-563.0000" TopMargin="-28.0000" BottomMargin="2.0000" ctype="SpriteObjectData">
+            <Size X="506.0000" Y="26.0000" />
+            <Children>
+              <AbstractNodeData Name="HpBar" ActionTag="1643418339" Tag="64" IconVisible="False" LeftMargin="25.6675" RightMargin="6.3325" TopMargin="3.1166" BottomMargin="2.8834" ProgressInfo="51" ctype="LoadingBarObjectData">
+                <Size X="474.0000" Y="20.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="262.6675" Y="12.8834" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5191" Y="0.4955" />
+                <PreSize />
+                <ImageFileData Type="Normal" Path="images/hp_meter_player.png" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="310.0000" Y="15.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize />
+            <FileData Type="Normal" Path="images/bg_hp_meter_player.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
