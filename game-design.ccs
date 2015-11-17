@@ -10,12 +10,6 @@
           </Folder>
         </Folder>
         <Folder Name="images">
-          <Image Name="10002.png" />
-          <Image Name="10003.png" />
-          <Image Name="10001.png" />
-          <Image Name="10004.png" />
-          <Image Name="10005.png" />
-          <Image Name="10006.png" />
           <Folder Name="Bg">
             <Image Name="img_bg_1.jpg" />
             <Image Name="img_bg_2.jpg" />
@@ -59,6 +53,12 @@
             <Image Name="BS14.png" />
             <Image Name="popup_bg1.png" />
             <Image Name="button.png" />
+            <Image Name="hp_meter_player.png" />
+            <Image Name="bg_hp_meter_field.png" />
+            <Image Name="bg_hp_meter_player.png" />
+            <Image Name="hpbar.png" />
+            <Image Name="bar_ferver_bg.png" />
+            <Image Name="bar_ferver.png" />
           </Folder>
           <Folder Name="Navi">
             <Image Name="left_002.png" />
@@ -148,15 +148,12 @@
             <Image Name="20151018.png" />
             <Image Name="20151019.png" />
           </Folder>
-          <Image Name="hpbar.png" />
-          <Image Name="bg_hp_meter_field.png" />
-          <Image Name="bg_hp_meter_player.png" />
-          <Image Name="hp_meter_player.png" />
         </Folder>
         <Folder Name="parts">
           <Folder Name="puzzle">
             <Project Name="PuzzleCardNode.csd" Type="Node" />
             <Project Name="PuzzlePauseLayer.csd" Type="Layer" />
+            <Project Name="PuzzleFooterNode.csd" Type="Node" />
           </Folder>
           <Folder Name="animation">
             <Folder Name="character" />

@@ -6,20 +6,20 @@
       <ObjectData Name="Node" Tag="27" ctype="GameNodeObjectData">
         <Size />
         <Children>
-          <AbstractNodeData Name="Card" ActionTag="-1004051412" Tag="33" IconVisible="False" LeftMargin="-150.0000" RightMargin="-150.0000" TopMargin="-141.0000" BottomMargin="-159.0000" Scale9Width="300" Scale9Height="300" ctype="ImageViewObjectData">
-            <Size X="300.0000" Y="300.0000" />
+          <AbstractNodeData Name="Card" ActionTag="-1004051412" Tag="33" IconVisible="False" LeftMargin="-194.5000" RightMargin="-194.5000" TopMargin="-180.5000" BottomMargin="-198.5000" Scale9Width="389" Scale9Height="379" ctype="ImageViewObjectData">
+            <Size X="389.0000" Y="379.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position Y="-9.0000" />
             <Scale ScaleX="0.5000" ScaleY="0.5000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
-            <FileData Type="Normal" Path="images/10002.png" Plist="" />
+            <FileData Type="Normal" Path="images/Card/1_all.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="EnergyBar" ActionTag="194200381" Tag="30" IconVisible="False" LeftMargin="-44.3312" RightMargin="-49.6688" TopMargin="49.1172" BottomMargin="-59.1172" ProgressInfo="51" ctype="LoadingBarObjectData">
+          <AbstractNodeData Name="EnergyBar" ActionTag="194200381" Tag="30" IconVisible="False" LeftMargin="-44.3312" RightMargin="-49.6688" TopMargin="44.1172" BottomMargin="-54.1172" ProgressInfo="51" ctype="LoadingBarObjectData">
             <Size X="94.0000" Y="10.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="2.6688" Y="-54.1172" />
+            <Position X="2.6688" Y="-49.1172" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

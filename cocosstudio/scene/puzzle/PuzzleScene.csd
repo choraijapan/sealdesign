@@ -28,6 +28,16 @@
             <FileData Type="Normal" Path="images/Bg/puzzle_road_8.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
+          <AbstractNodeData Name="ProjectNode_1" ActionTag="-658683585" Tag="395" IconVisible="True" RightMargin="640.0000" TopMargin="1136.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+            <Size />
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize />
+            <FileData Type="Normal" Path="parts/puzzle/PuzzleFooterNode.csd" Plist="" />
+          </AbstractNodeData>
         </Children>
       </ObjectData>
     </Content>
