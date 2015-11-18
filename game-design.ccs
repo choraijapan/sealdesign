@@ -59,6 +59,7 @@
             <Image Name="hpbar.png" />
             <Image Name="bar_ferver_bg.png" />
             <Image Name="bar_ferver.png" />
+            <Image Name="bg_result_exp_bar.png" />
           </Folder>
           <Folder Name="Navi">
             <Image Name="left_002.png" />
