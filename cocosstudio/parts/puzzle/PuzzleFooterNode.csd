@@ -17,7 +17,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5163" Y="0.4718" />
                 <PreSize X="0.6625" Y="0.5000" />
-                <FileData Type="Normal" Path="images/Common/bg_result_exp_bar.png" Plist="" />
+                <FileData Type="Normal" Path="images/common/bg_result_exp_bar.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="Text_1" ActionTag="585350495" Tag="392" IconVisible="False" LeftMargin="41.8036" RightMargin="541.1964" TopMargin="30.8967" BottomMargin="26.1033" FontSize="20" LabelText="Ferver" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="TextObjectData">
                 <Size X="57.0000" Y="23.0000" />
@@ -40,7 +40,7 @@
             <SingleColor A="255" R="150" G="200" B="255" />
             <FirstColor A="255" R="255" G="255" B="0" />
             <EndColor A="255" R="0" G="0" B="0" />
-            <ColorVector ScaleX="0.0000" ScaleY="-1.0000" />
+            <ColorVector ScaleY="-1.0000" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

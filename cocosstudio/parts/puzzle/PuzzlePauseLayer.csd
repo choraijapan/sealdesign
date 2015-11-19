@@ -17,7 +17,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.0538" Y="0.0933" />
                 <PreSize X="0.0867" Y="0.0833" />
-                <FileData Type="Normal" Path="images/Common/popup_bg1.png" Plist="" />
+                <FileData Type="Normal" Path="images/common/popup_bg1.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="ButtonResume" ActionTag="-1964100169" Tag="29" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="251.4000" RightMargin="5598.6001" TopMargin="5624.7998" BottomMargin="329.2000" TouchEnable="True" FontSize="26" ButtonText="やろうぜ" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="20" BottomEage="20" Scale9OriginX="20" Scale9OriginY="20" Scale9Width="26" Scale9Height="6" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
                 <Size X="150.0000" Y="46.0000" />
@@ -29,8 +29,8 @@
                 <PreSize X="0.0250" Y="0.0077" />
                 <TextColor A="255" R="255" G="255" B="0" />
                 <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                <PressedFileData Type="Normal" Path="images/Common/button.png" Plist="" />
-                <NormalFileData Type="Normal" Path="images/Common/button.png" Plist="" />
+                <PressedFileData Type="Normal" Path="images/common/button.png" Plist="" />
+                <NormalFileData Type="Normal" Path="images/common/button.png" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>

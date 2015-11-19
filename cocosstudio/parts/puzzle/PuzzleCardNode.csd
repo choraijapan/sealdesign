@@ -10,7 +10,7 @@
             <Size X="640.0000" Y="200.0000" />
             <AnchorPoint />
             <Position />
-            <Scale ScaleX="1.0000" ScaleY="0.8250" />
+            <Scale ScaleX="1.0000" ScaleY="0.7050" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
@@ -22,60 +22,60 @@
           <AbstractNodeData Name="CardNode" ActionTag="364611800" Tag="91" IconVisible="True" TopMargin="-19.0000" BottomMargin="19.0000" ctype="SingleNodeObjectData">
             <Size />
             <Children>
-              <AbstractNodeData Name="CardNode_1" ActionTag="-1167209111" Tag="31" IconVisible="True" LeftMargin="49.2401" RightMargin="-49.2401" TopMargin="-67.1072" BottomMargin="67.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="CardNode_1" ActionTag="-1167209111" Tag="31" IconVisible="True" LeftMargin="54.2401" RightMargin="-54.2401" TopMargin="-72.1072" BottomMargin="72.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
                 <Size />
                 <AnchorPoint />
-                <Position X="49.2401" Y="67.1072" />
+                <Position X="54.2401" Y="72.1072" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize />
                 <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CardNode_2" ActionTag="1715821748" Tag="35" IconVisible="True" LeftMargin="160.2403" RightMargin="-160.2403" TopMargin="-67.1072" BottomMargin="67.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="CardNode_2" ActionTag="1715821748" Tag="35" IconVisible="True" LeftMargin="165.2403" RightMargin="-165.2403" TopMargin="-72.1072" BottomMargin="72.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
                 <Size />
                 <AnchorPoint />
-                <Position X="160.2403" Y="67.1072" />
+                <Position X="165.2403" Y="72.1072" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize />
                 <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CardNode_3" ActionTag="-105099530" Tag="39" IconVisible="True" LeftMargin="268.2404" RightMargin="-268.2404" TopMargin="-67.1072" BottomMargin="67.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="CardNode_3" ActionTag="-105099530" Tag="39" IconVisible="True" LeftMargin="273.2404" RightMargin="-273.2404" TopMargin="-72.1072" BottomMargin="72.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
                 <Size />
                 <AnchorPoint />
-                <Position X="268.2404" Y="67.1072" />
+                <Position X="273.2404" Y="72.1072" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize />
                 <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CardNode_4" ActionTag="-307694272" Tag="43" IconVisible="True" LeftMargin="373.2404" RightMargin="-373.2404" TopMargin="-67.1072" BottomMargin="67.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="CardNode_4" ActionTag="-307694272" Tag="43" IconVisible="True" LeftMargin="378.2404" RightMargin="-378.2404" TopMargin="-72.1072" BottomMargin="72.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
                 <Size />
                 <AnchorPoint />
-                <Position X="373.2404" Y="67.1072" />
+                <Position X="378.2404" Y="72.1072" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize />
                 <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CardNode_5" ActionTag="-861569405" Tag="47" IconVisible="True" LeftMargin="474.2404" RightMargin="-474.2404" TopMargin="-67.1072" BottomMargin="67.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="CardNode_5" ActionTag="-861569405" Tag="47" IconVisible="True" LeftMargin="479.2404" RightMargin="-479.2404" TopMargin="-72.1072" BottomMargin="72.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
                 <Size />
                 <AnchorPoint />
-                <Position X="474.2404" Y="67.1072" />
+                <Position X="479.2404" Y="72.1072" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize />
                 <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CardNode_6" ActionTag="1185489078" Tag="51" IconVisible="True" LeftMargin="580.2402" RightMargin="-580.2402" TopMargin="-67.1072" BottomMargin="67.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="CardNode_6" ActionTag="1185489078" Tag="51" IconVisible="True" LeftMargin="585.2402" RightMargin="-585.2402" TopMargin="-72.1072" BottomMargin="72.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
                 <Size />
                 <AnchorPoint />
-                <Position X="580.2402" Y="67.1072" />
+                <Position X="585.2402" Y="72.1072" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -90,10 +90,10 @@
             <PrePosition />
             <PreSize />
           </AbstractNodeData>
-          <AbstractNodeData Name="HpNode" ActionTag="139479016" Tag="65" IconVisible="False" LeftMargin="64.0000" RightMargin="-570.0000" TopMargin="-28.0000" BottomMargin="2.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="HpNode" ActionTag="139479016" Tag="65" IconVisible="False" LeftMargin="64.0002" RightMargin="-570.0002" TopMargin="-27.0000" BottomMargin="1.0000" ctype="SpriteObjectData">
             <Size X="506.0000" Y="26.0000" />
             <Children>
-              <AbstractNodeData Name="HpBar" ActionTag="1643418339" Tag="64" IconVisible="False" LeftMargin="25.6675" RightMargin="-453.6675" TopMargin="23.1166" BottomMargin="2.8834" ProgressInfo="51" ctype="LoadingBarObjectData">
+              <AbstractNodeData Name="HpBar" ActionTag="1643418339" Tag="64" IconVisible="False" LeftMargin="25.6675" RightMargin="6.3325" TopMargin="3.1166" BottomMargin="2.8834" ProgressInfo="51" ctype="LoadingBarObjectData">
                 <Size X="474.0000" Y="20.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="262.6675" Y="12.8834" />
@@ -101,16 +101,16 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5191" Y="0.4955" />
                 <PreSize X="10.3043" Y="0.4348" />
-                <ImageFileData Type="Normal" Path="images/Common/hp_meter_player.png" Plist="" />
+                <ImageFileData Type="Normal" Path="images/common/hp_meter_player.png" Plist="" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="317.0000" Y="15.0000" />
+            <Position X="317.0002" Y="14.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
-            <FileData Type="Normal" Path="images/Common/bg_hp_meter_player.png" Plist="" />
+            <FileData Type="Normal" Path="images/common/bg_hp_meter_player.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
