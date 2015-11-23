@@ -439,40 +439,40 @@
           <AbstractNodeData Name="ScrollView_1" ActionTag="1287637070" Tag="120" IconVisible="False" TouchEnable="True" ComboBoxIndex="1" ColorAngle="90.0000" IsBounceEnabled="True" ScrollDirectionType="Vertical_Horizontal" ctype="ScrollViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <Children>
-              <AbstractNodeData Name="bg" ActionTag="1890476048" Tag="33" Rotation="144.0000" RotationSkewX="144.0000" RotationSkewY="144.0000" IconVisible="False" LeftMargin="582.2377" RightMargin="893.7623" TopMargin="240.6345" BottomMargin="235.3655" ctype="SpriteObjectData">
+              <AbstractNodeData Name="bg" ActionTag="1890476048" Tag="33" IconVisible="False" LeftMargin="645.2391" RightMargin="830.7609" TopMargin="240.6345" BottomMargin="235.3655" ctype="SpriteObjectData">
                 <Size X="1024.0000" Y="1024.0000" />
                 <AnchorPoint ScaleX="0.4876" ScaleY="0.4689" />
-                <Position X="1081.5400" Y="715.5191" />
+                <Position X="1144.5415" Y="715.5191" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4326" Y="0.4770" />
+                <PrePosition X="0.4578" Y="0.4770" />
                 <PreSize />
                 <FileData Type="Normal" Path="images/map/rasen.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="light" ActionTag="-2139039182" Tag="29" IconVisible="False" LeftMargin="755.3289" RightMargin="720.6711" TopMargin="-115.4858" BottomMargin="591.4858" ctype="SpriteObjectData">
+              <AbstractNodeData Name="light" ActionTag="-2139039182" Tag="29" IconVisible="False" LeftMargin="707.7666" RightMargin="768.2334" TopMargin="-241.9802" BottomMargin="717.9802" ctype="SpriteObjectData">
                 <Size X="1024.0000" Y="1024.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="1267.3289" Y="1103.4858" />
+                <Position X="1219.7666" Y="1229.9802" />
                 <Scale ScaleX="0.8779" ScaleY="0.8779" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5069" Y="0.7357" />
+                <PrePosition X="0.4879" Y="0.8200" />
                 <PreSize />
                 <FileData Type="Normal" Path="images/map/hikari_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="fire" ActionTag="-1064999718" Tag="295" IconVisible="False" LeftMargin="1517.9449" RightMargin="-41.9448" TopMargin="255.1975" BottomMargin="220.8024" ctype="SpriteObjectData">
+              <AbstractNodeData Name="fire" ActionTag="-1064999718" Tag="295" IconVisible="False" LeftMargin="1561.1016" RightMargin="-85.1016" TopMargin="52.0847" BottomMargin="423.9153" ctype="SpriteObjectData">
                 <Size X="1024.0000" Y="1024.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="2029.9449" Y="732.8024" />
+                <Position X="2073.1016" Y="935.9153" />
                 <Scale ScaleX="0.9428" ScaleY="0.9428" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.8120" Y="0.4885" />
+                <PrePosition X="0.8292" Y="0.6239" />
                 <PreSize />
                 <FileData Type="Normal" Path="images/map/hi_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="tree" ActionTag="2085666757" Tag="30" IconVisible="False" LeftMargin="-153.3680" RightMargin="1629.3680" TopMargin="56.3397" BottomMargin="419.6603" ctype="SpriteObjectData">
+              <AbstractNodeData Name="tree" ActionTag="2085666757" Tag="30" IconVisible="False" LeftMargin="-150.9683" RightMargin="1626.9683" TopMargin="75.1343" BottomMargin="400.8658" ctype="SpriteObjectData">
                 <Size X="1024.0000" Y="1024.0000" />
                 <Children>
                   <AbstractNodeData Name="MS01" ActionTag="-751575909" Tag="44" IconVisible="False" LeftMargin="514.5660" RightMargin="421.4340" TopMargin="778.8640" BottomMargin="161.1360" Scale9Width="88" Scale9Height="84" ctype="ImageViewObjectData">
@@ -564,32 +564,32 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="358.6320" Y="931.6603" />
+                <Position X="361.0317" Y="912.8658" />
                 <Scale ScaleX="0.9046" ScaleY="0.9046" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.1435" Y="0.6211" />
+                <PrePosition X="0.1444" Y="0.6086" />
                 <PreSize />
                 <FileData Type="Normal" Path="images/map/ki_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="dark" ActionTag="1498541991" Tag="32" IconVisible="False" LeftMargin="883.4788" RightMargin="592.5212" TopMargin="663.1819" BottomMargin="-187.1819" ctype="SpriteObjectData">
+              <AbstractNodeData Name="dark" ActionTag="1498541991" Tag="32" IconVisible="False" LeftMargin="1122.9917" RightMargin="353.0083" TopMargin="635.8965" BottomMargin="-159.8965" ctype="SpriteObjectData">
                 <Size X="1024.0000" Y="1024.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="1395.4788" Y="324.8181" />
+                <Position X="1634.9917" Y="352.1035" />
                 <Scale ScaleX="0.9924" ScaleY="0.9924" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5582" Y="0.2165" />
+                <PrePosition X="0.6540" Y="0.2347" />
                 <PreSize />
                 <FileData Type="Normal" Path="images/map/yami_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="water" ActionTag="-233499076" Tag="31" IconVisible="False" LeftMargin="-53.8150" RightMargin="1529.8149" TopMargin="732.9326" BottomMargin="-256.9326" ctype="SpriteObjectData">
+              <AbstractNodeData Name="water" ActionTag="-233499076" Tag="31" IconVisible="False" LeftMargin="-31.8152" RightMargin="1507.8152" TopMargin="751.1850" BottomMargin="-275.1850" ctype="SpriteObjectData">
                 <Size X="1024.0000" Y="1024.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="458.1850" Y="255.0674" />
+                <Position X="480.1848" Y="236.8150" />
                 <Scale ScaleX="0.8741" ScaleY="0.8741" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.1833" Y="0.1700" />
+                <PrePosition X="0.1921" Y="0.1579" />
                 <PreSize />
                 <FileData Type="Normal" Path="images/map/mizu_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />

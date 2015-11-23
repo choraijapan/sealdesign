@@ -7,6 +7,7 @@
           <Project Name="MenuScene.csd" Type="Scene" />
           <Folder Name="puzzle">
             <Project Name="PuzzleScene.csd" Type="Scene" />
+            <Project Name="PauseScene.csd" Type="Scene" />
           </Folder>
         </Folder>
         <Folder Name="images">
@@ -28,7 +29,20 @@
             <Image Name="puzzle_road_1_startPos.png" />
             <Image Name="puzzle_road_8.jpg" />
           </Folder>
-          <Folder Name="card" />
+          <Folder Name="card">
+            <PlistImageFolder Image="skille_blizzard.png" PListFile="skille_blizzard.plist" Name=".skille_blizzard_PList.Dir">
+              <PlistImageFile Name="blizzard_0001.png" Key="blizzard_0001.png" />
+              <PlistImageFile Name="blizzard_0002.png" Key="blizzard_0002.png" />
+              <PlistImageFile Name="blizzard_0003.png" Key="blizzard_0003.png" />
+              <PlistImageFile Name="blizzard_0004.png" Key="blizzard_0004.png" />
+              <PlistImageFile Name="blizzard_0005.png" Key="blizzard_0005.png" />
+              <PlistImageFile Name="blizzard_0007.png" Key="blizzard_0007.png" />
+              <PlistImageFile Name="blizzard_0008.png" Key="blizzard_0008.png" />
+              <PlistImageFile Name="blizzard_0009.png" Key="blizzard_0009.png" />
+              <PlistImageFile Name="blizzard_0010.png" Key="blizzard_0010.png" />
+              <PlistImageFile Name="blizzard_0011.png" Key="blizzard_0011.png" />
+            </PlistImageFolder>
+          </Folder>
           <Folder Name="common">
             <Image Name="popup_bg1.png" />
             <Image Name="button.png" />
