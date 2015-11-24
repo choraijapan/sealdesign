@@ -40,14 +40,14 @@
             <FileData Type="Normal" Path="images/common/monster_thum_yellow_red.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="EnergyBar" CanEdit="False" ActionTag="194200381" Tag="30" IconVisible="False" LeftMargin="-45.8312" RightMargin="-45.1688" TopMargin="50.1171" BottomMargin="-62.1171" ProgressInfo="100" ctype="LoadingBarObjectData">
-            <Size X="91.0000" Y="12.0000" />
+            <Size X="200.0000" Y="14.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="-0.3312" Y="-56.1171" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
-            <ImageFileData Type="Normal" Path="images/ui/gauge_skill.png" Plist="" />
+            <ImageFileData Type="Default" Path="Default/LoadingBarFile.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
