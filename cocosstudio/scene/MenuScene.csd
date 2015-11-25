@@ -209,7 +209,7 @@
         </Timeline>
       </Animation>
       <ObjectData Name="Scene" Tag="34" ctype="GameNodeObjectData">
-        <Size X="640.0000" Y="1136.0000" />
+        <Size X="640.0000" Y="960.0000" />
         <Children>
           <AbstractNodeData Name="Sample_01" ActionTag="-1733981439" Tag="35" IconVisible="False" LeftMargin="70.7500" RightMargin="441.2500" TopMargin="384.5000" BottomMargin="715.5000" TouchEnable="True" FontSize="14" ButtonText="sample01" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
             <Size X="128.0000" Y="36.0000" />
@@ -559,7 +559,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5477" Y="0.2093" />
                     <PreSize />
-                    <FileData Type="Normal" Path="images/effect/multi_skill_charged_full_player.plist" Plist="" />
+                    <FileData Type="Normal" Path="images/puzzle/effect/particle/multi_skill_charged_full_player.plist" Plist="" />
                     <BlendFunc Src="770" Dst="1" />
                   </AbstractNodeData>
                 </Children>

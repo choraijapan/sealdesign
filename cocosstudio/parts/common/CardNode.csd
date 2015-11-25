@@ -19,17 +19,17 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Card" ActionTag="690862636" Tag="52" IconVisible="False" LeftMargin="-72.9996" RightMargin="-107.0004" TopMargin="-70.0001" BottomMargin="-69.9999" Scale9Width="180" Scale9Height="140" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Card" ActionTag="690862636" Tag="52" IconVisible="False" LeftMargin="-82.9984" RightMargin="-97.0016" TopMargin="-66.0001" BottomMargin="-73.9999" Scale9Width="180" Scale9Height="140" ctype="ImageViewObjectData">
             <Size X="180.0000" Y="140.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="17.0004" Y="0.0001" />
+            <Position X="7.0016" Y="-3.9999" />
             <Scale ScaleX="0.7400" ScaleY="0.7400" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
-            <FileData Type="Normal" Path="images/common/weapon_menu_playerimage_wond.png" Plist="" />
+            <FileData Type="Normal" Path="images/card/weapon_menu_playerimage_sword.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="CardFrame" ActionTag="-1004051412" Tag="33" IconVisible="False" LeftMargin="-50.0000" RightMargin="-50.0000" TopMargin="-50.0000" BottomMargin="-50.0000" Scale9Width="100" Scale9Height="100" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="CardFrame" CanEdit="False" ActionTag="-1004051412" Tag="33" IconVisible="False" LeftMargin="-50.0000" RightMargin="-50.0000" TopMargin="-50.0000" BottomMargin="-50.0000" Scale9Width="100" Scale9Height="100" ctype="ImageViewObjectData">
             <Size X="100.0000" Y="100.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />
@@ -37,17 +37,17 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
-            <FileData Type="Normal" Path="images/common/monster_thum_yellow_red.png" Plist="" />
+            <FileData Type="Normal" Path="images/common/monster_thum_green.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="EnergyBar" CanEdit="False" ActionTag="194200381" Tag="30" IconVisible="False" LeftMargin="-45.8312" RightMargin="-45.1688" TopMargin="50.1171" BottomMargin="-62.1171" ProgressInfo="100" ctype="LoadingBarObjectData">
-            <Size X="200.0000" Y="14.0000" />
+          <AbstractNodeData Name="EnergyBar" ActionTag="194200381" Tag="30" IconVisible="False" LeftMargin="-45.8312" RightMargin="-45.1688" TopMargin="34.1171" BottomMargin="-46.1171" ProgressInfo="100" ctype="LoadingBarObjectData">
+            <Size X="91.0000" Y="12.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-0.3312" Y="-56.1171" />
+            <Position X="-0.3312" Y="-40.1171" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
-            <ImageFileData Type="Default" Path="Default/LoadingBarFile.png" Plist="" />
+            <ImageFileData Type="Normal" Path="images/puzzle/ui/gauge_green_energe.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
