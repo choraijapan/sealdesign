@@ -1,5 +1,5 @@
 <GameProjectFile>
-  <PropertyGroup Type="Layer" Name="Layer" ID="5699950c-58b3-4498-b24f-8d6365722159" Version="2.3.0.1" />
+  <PropertyGroup Type="Layer" Name="BlockLayer" ID="5699950c-58b3-4498-b24f-8d6365722159" Version="2.3.0.1" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
