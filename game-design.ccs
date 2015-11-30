@@ -288,7 +288,6 @@
             <Project Name="PuzzlePauseLayer.csd" Type="Layer" />
             <Project Name="PuzzleFooterNode.csd" Type="Node" />
           </Folder>
-          <Folder Name="effect" />
           <Folder Name="common">
             <Project Name="CardNode.csd" Type="Node" />
             <Project Name="HeaderNode.csd" Type="Node" />
