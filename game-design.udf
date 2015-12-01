@@ -27,5 +27,13 @@
         <LastRunType Value="Unknown" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="parts/common/BlockLayer.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="parts/common/BlockLayer.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>
