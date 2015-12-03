@@ -12,7 +12,7 @@
             <Position X="-111.5411" Y="0.0001" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="-0.1743" Y="0.0000" />
+            <PrePosition X="-0.1743" />
             <PreSize />
             <FileData Type="Normal" Path="images/puzzle/ui/bg_result.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
@@ -49,7 +49,7 @@
             <PreSize />
             <FileData Type="Normal" Path="parts/common/HeaderNode.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_6" ActionTag="-397867472" Tag="78" IconVisible="False" LeftMargin="174.5257" RightMargin="181.4743" TopMargin="335.4497" BottomMargin="317.5503" FontSize="20" LabelText="１）2015-11-24 オフィスが決定&#xA;２）2015-11-26 MTG&#xA;３）サーバー側の実装&#xA;DBの設計&#xA;ログイン処理&#xA;ユーザー情報&#xA;カード情報&#xA;クエスト&#xA;........&#xA;&#xA;４）クライアントの実装&#xA;トップ、&#xA;ガチャ、&#xA;デッキ、&#xA;カード一覧、&#xA;進化、&#xA;強化、&#xA;クエスト、&#xA;マップ、&#xA; &#xA;" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_6" ActionTag="-397867472" Tag="78" IconVisible="False" LeftMargin="174.5257" RightMargin="181.4743" TopMargin="335.4497" BottomMargin="317.5503" FontSize="20" LabelText="１）2015-11-24 オフィスが決定&#xA;２）2015-11-26 MTG&#xA;３）サーバー側の実装&#xA;DBの設計&#xA;ログイン処理&#xA;ユーザー情報&#xA;カード情報&#xA;クエスト&#xA;........&#xA;&#xA;４）クライアントの実装&#xA;トップ、&#xA;ガチャ、&#xA;デッキ、&#xA;カード一覧、&#xA;進化、&#xA;強化、&#xA;クエスト、&#xA;マップ、&#xA; &#xA;" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="TextObjectData">
             <Size X="284.0000" Y="483.0000" />
             <AnchorPoint ScaleX="0.4939" ScaleY="1.0000" />
             <Position X="314.7896" Y="800.5503" />
@@ -66,7 +66,7 @@
             <Position X="-0.0001" Y="1.7849" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0000" Y="0.0016" />
+            <PrePosition Y="0.0016" />
             <PreSize X="1.0000" Y="1.0000" />
             <SingleColor A="255" R="150" G="200" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />

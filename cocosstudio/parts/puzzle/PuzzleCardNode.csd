@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="257" ctype="GameNodeObjectData">
         <Size />
         <Children>
-          <AbstractNodeData Name="CardNode" ActionTag="364611800" Tag="91" IconVisible="True" TopMargin="-6.0000" BottomMargin="6.0000" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="CardNode" ActionTag="364611800" Tag="91" IconVisible="True" LeftMargin="52.0000" RightMargin="-52.0000" TopMargin="-6.0000" BottomMargin="6.0000" ctype="SingleNodeObjectData">
             <Size />
             <Children>
               <AbstractNodeData Name="CardNode_1" ActionTag="-1167209111" Tag="31" IconVisible="True" LeftMargin="54.2401" RightMargin="-54.2401" TopMargin="-72.1072" BottomMargin="72.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
@@ -59,19 +59,9 @@
                 <PreSize />
                 <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CardNode_6" ActionTag="1185489078" Tag="51" IconVisible="True" LeftMargin="585.2402" RightMargin="-585.2402" TopMargin="-72.1072" BottomMargin="72.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
-                <Size />
-                <AnchorPoint />
-                <Position X="585.2402" Y="72.1072" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition />
-                <PreSize />
-                <FileData Type="Normal" Path="parts/common/CardNode.csd" Plist="" />
-              </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position Y="6.0000" />
+            <Position X="52.0000" Y="6.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
