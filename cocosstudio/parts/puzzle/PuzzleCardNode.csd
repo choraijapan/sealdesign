@@ -67,28 +67,91 @@
             <PrePosition />
             <PreSize />
           </AbstractNodeData>
-          <AbstractNodeData Name="HpNode" ActionTag="139479016" Tag="65" IconVisible="False" LeftMargin="64.0002" RightMargin="-570.0002" TopMargin="-27.0000" BottomMargin="1.0000" ctype="SpriteObjectData">
-            <Size X="506.0000" Y="26.0000" />
+          <AbstractNodeData Name="Node_1" ActionTag="1763258614" Tag="909" IconVisible="True" TopMargin="-3.0000" BottomMargin="3.0000" ctype="SingleNodeObjectData">
+            <Size />
             <Children>
-              <AbstractNodeData Name="HpBar" ActionTag="1643418339" Tag="64" IconVisible="False" LeftMargin="25.6675" RightMargin="6.3325" TopMargin="3.1166" BottomMargin="2.8834" ProgressInfo="51" ctype="LoadingBarObjectData">
-                <Size X="474.0000" Y="20.0000" />
+              <AbstractNodeData Name="bg_ferver_bar_1_0" ActionTag="-1740950961" Tag="696" IconVisible="False" LeftMargin="-23.8676" RightMargin="-400.1324" TopMargin="-35.8246" BottomMargin="-4.1754" ctype="SpriteObjectData">
+                <Size X="424.0000" Y="40.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="262.6675" Y="12.8834" />
+                <Position X="188.1324" Y="15.8246" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="images/puzzle/ui/bg_ferver_bar.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="HpBar" ActionTag="1643418339" Tag="64" IconVisible="False" LeftMargin="86.4270" RightMargin="-290.4271" TopMargin="-22.6822" BottomMargin="8.6822" ProgressInfo="100" ctype="LoadingBarObjectData">
+                <Size X="204.0000" Y="14.0000" />
+                <AnchorPoint ScaleY="0.5000" />
+                <Position X="86.4270" Y="15.6822" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5191" Y="0.4955" />
-                <PreSize X="0.9368" Y="0.7692" />
-                <ImageFileData Type="Normal" Path="images/puzzle/ui/hp_player.png" Plist="" />
+                <PrePosition />
+                <PreSize />
+                <ImageFileData Type="Normal" Path="images/puzzle/ui/bar_hp.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="ball_fire_6" ActionTag="-1010366433" Tag="697" IconVisible="False" LeftMargin="236.9788" RightMargin="-364.9788" TopMargin="-79.2284" BottomMargin="-48.7716" ctype="SpriteObjectData">
+                <Size X="128.0000" Y="128.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="300.9788" Y="15.2284" />
+                <Scale ScaleX="0.1416" ScaleY="0.1416" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="images/puzzle/block/ball_fire.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="317.0002" Y="14.0000" />
+            <AnchorPoint />
+            <Position Y="3.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
-            <FileData Type="Normal" Path="images/puzzle/ui/bg_hp_meter_player.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Node_2" CanEdit="False" ActionTag="1179736347" Tag="910" IconVisible="True" LeftMargin="0.5972" RightMargin="-0.5972" TopMargin="-3.0000" BottomMargin="3.0000" ctype="SingleNodeObjectData">
+            <Size />
+            <Children>
+              <AbstractNodeData Name="bg_ferver_bar_1" ActionTag="-1512691766" Tag="692" IconVisible="False" LeftMargin="238.4313" RightMargin="-662.4313" TopMargin="-35.6723" BottomMargin="-4.3277" ctype="SpriteObjectData">
+                <Size X="424.0000" Y="40.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="450.4313" Y="15.6723" />
+                <Scale ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="images/puzzle/ui/bg_ferver_bar.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="EnBar" ActionTag="-166315892" Tag="833" IconVisible="False" LeftMargin="348.2443" RightMargin="-552.2443" TopMargin="-22.8348" BottomMargin="8.8348" ProgressInfo="0" ctype="LoadingBarObjectData">
+                <Size X="204.0000" Y="14.0000" />
+                <AnchorPoint ScaleY="0.5000" />
+                <Position X="348.2443" Y="15.8348" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <ImageFileData Type="Normal" Path="images/puzzle/ui/bar_hp.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="ball_light_4" ActionTag="1710580518" Tag="423" IconVisible="False" LeftMargin="273.5253" RightMargin="-401.5253" TopMargin="-79.7218" BottomMargin="-48.2782" ctype="SpriteObjectData">
+                <Size X="128.0000" Y="128.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="337.5253" Y="15.7218" />
+                <Scale ScaleX="0.1416" ScaleY="0.1416" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="images/puzzle/block/ball_light.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position X="0.5972" Y="3.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize />
           </AbstractNodeData>
         </Children>
       </ObjectData>

@@ -251,6 +251,7 @@
               <Image Name="hp_player.png" />
               <Image Name="bar_ferver.png" />
               <Image Name="bg_result.jpg" />
+              <Image Name="bar_hp.png" />
             </Folder>
             <Folder Name="road">
               <Image Name="puzzle_road_1.jpg" />
@@ -287,7 +288,6 @@
           <Folder Name="puzzle">
             <Project Name="PuzzleCardNode.csd" Type="Node" />
             <Project Name="PuzzlePauseLayer.csd" Type="Layer" />
-            <Project Name="PuzzleFooterNode.csd" Type="Node" />
           </Folder>
           <Folder Name="common">
             <Project Name="CardNode.csd" Type="Node" />
