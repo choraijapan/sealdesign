@@ -209,9 +209,9 @@
         </Timeline>
       </Animation>
       <ObjectData Name="Scene" Tag="34" ctype="GameNodeObjectData">
-        <Size X="640.0000" Y="1136.0000" />
+        <Size X="640.0000" Y="960.0000" />
         <Children>
-          <AbstractNodeData Name="ScrollView" ActionTag="1287637070" Tag="120" IconVisible="False" TouchEnable="True" ComboBoxIndex="1" ColorAngle="90.0000" IsBounceEnabled="True" ScrollDirectionType="Vertical_Horizontal" ctype="ScrollViewObjectData">
+          <AbstractNodeData Name="ScrollView" ActionTag="1287637070" Tag="120" IconVisible="False" TopMargin="-176.0000" TouchEnable="True" ComboBoxIndex="1" ColorAngle="90.0000" IsBounceEnabled="True" ScrollDirectionType="Vertical_Horizontal" ctype="ScrollViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <Children>
               <AbstractNodeData Name="bg" ActionTag="1890476048" Tag="33" IconVisible="False" LeftMargin="645.2391" RightMargin="830.7609" TopMargin="240.6345" BottomMargin="235.3655" ctype="SpriteObjectData">
@@ -396,13 +396,13 @@
             <ColorVector ScaleY="1.0000" />
             <InnerNodeSize Width="2500" Height="1500" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Header" ActionTag="1423685122" Tag="109" IconVisible="True" LeftMargin="40.0000" RightMargin="600.0000" TopMargin="114.9960" BottomMargin="1021.0040" InnerActionSpeed="0.1667" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="Header" ActionTag="1423685122" Tag="109" IconVisible="True" LeftMargin="40.0000" RightMargin="600.0000" TopMargin="-61.0040" BottomMargin="1021.0040" InnerActionSpeed="0.1667" ctype="ProjectNodeObjectData">
             <Size />
             <AnchorPoint />
             <Position X="40.0000" Y="1021.0040" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0625" Y="0.8988" />
+            <PrePosition X="0.0625" Y="1.0635" />
             <PreSize />
             <FileData Type="Normal" Path="parts/common/HeaderNode.csd" Plist="" />
           </AbstractNodeData>

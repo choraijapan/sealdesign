@@ -11,6 +11,7 @@
             <Project Name="ResultScene.csd" Type="Scene" />
           </Folder>
           <Project Name="MapScene.csd" Type="Scene" />
+          <Project Name="TopScene.csd" Type="Scene" />
         </Folder>
         <Folder Name="images">
           <Folder Name="card">
