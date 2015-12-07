@@ -10,6 +10,7 @@
             <Project Name="PauseScene.csd" Type="Scene" />
             <Project Name="ResultScene.csd" Type="Scene" />
           </Folder>
+          <Project Name="MapScene.csd" Type="Scene" />
         </Folder>
         <Folder Name="images">
           <Folder Name="card">
