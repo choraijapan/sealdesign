@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="257" ctype="GameNodeObjectData">
         <Size />
         <Children>
-          <AbstractNodeData Name="CardNode" ActionTag="364611800" Tag="91" IconVisible="True" LeftMargin="52.0000" RightMargin="-52.0000" TopMargin="-6.0000" BottomMargin="6.0000" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="CardNode" CanEdit="False" ActionTag="364611800" Tag="91" IconVisible="True" LeftMargin="52.0000" RightMargin="-52.0000" TopMargin="-587.0000" BottomMargin="587.0000" ctype="SingleNodeObjectData">
             <Size />
             <Children>
               <AbstractNodeData Name="CardNode_1" ActionTag="-1167209111" Tag="31" IconVisible="True" LeftMargin="54.2401" RightMargin="-54.2401" TopMargin="-72.1072" BottomMargin="72.1072" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
@@ -61,93 +61,71 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="52.0000" Y="6.0000" />
+            <Position X="52.0000" Y="587.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
           </AbstractNodeData>
-          <AbstractNodeData Name="Node_1" ActionTag="1763258614" Tag="909" IconVisible="True" TopMargin="-3.0000" BottomMargin="3.0000" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="Node_1" ActionTag="1763258614" Tag="909" IconVisible="True" LeftMargin="1.0574" RightMargin="-1.0574" TopMargin="-582.3801" BottomMargin="582.3801" ctype="SingleNodeObjectData">
             <Size />
             <Children>
-              <AbstractNodeData Name="bg_ferver_bar_1_0" ActionTag="-1740950961" Tag="696" IconVisible="False" LeftMargin="-23.8676" RightMargin="-400.1324" TopMargin="-35.8246" BottomMargin="-4.1754" ctype="SpriteObjectData">
-                <Size X="424.0000" Y="40.0000" />
+              <AbstractNodeData Name="bg_hp_meter_player_1" ActionTag="-1440868236" Tag="41" IconVisible="False" LeftMargin="63.7500" RightMargin="-569.7500" TopMargin="-26.8600" BottomMargin="0.8600" ctype="SpriteObjectData">
+                <Size X="506.0000" Y="26.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="188.1324" Y="15.8246" />
-                <Scale ScaleX="0.5000" ScaleY="0.5000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition />
-                <PreSize />
-                <FileData Type="Normal" Path="images/puzzle/ui/bg_ferver_bar.png" Plist="" />
-                <BlendFunc Src="1" Dst="771" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="HpBar" ActionTag="1643418339" Tag="64" IconVisible="False" LeftMargin="86.4270" RightMargin="-290.4271" TopMargin="-22.6822" BottomMargin="8.6822" ProgressInfo="100" ctype="LoadingBarObjectData">
-                <Size X="204.0000" Y="14.0000" />
-                <AnchorPoint ScaleY="0.5000" />
-                <Position X="86.4270" Y="15.6822" />
+                <Position X="316.7500" Y="13.8600" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize />
-                <ImageFileData Type="Normal" Path="images/puzzle/ui/bar_hp.png" Plist="" />
+                <FileData Type="Normal" Path="images/puzzle/ui/bg_hp_meter_player.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="ball_fire_6" ActionTag="-1010366433" Tag="697" IconVisible="False" LeftMargin="236.9788" RightMargin="-364.9788" TopMargin="-79.2284" BottomMargin="-48.7716" ctype="SpriteObjectData">
-                <Size X="128.0000" Y="128.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="300.9788" Y="15.2284" />
-                <Scale ScaleX="0.1416" ScaleY="0.1416" />
+              <AbstractNodeData Name="HpBar" ActionTag="1643418339" Tag="64" IconVisible="False" LeftMargin="89.4300" RightMargin="-563.4300" TopMargin="-23.6822" BottomMargin="3.6822" ProgressInfo="100" ctype="LoadingBarObjectData">
+                <Size X="474.0000" Y="20.0000" />
+                <AnchorPoint ScaleY="0.5000" />
+                <Position X="89.4300" Y="13.6822" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize />
-                <FileData Type="Normal" Path="images/puzzle/block/ball_fire.png" Plist="" />
-                <BlendFunc Src="1" Dst="771" />
+                <ImageFileData Type="Normal" Path="images/puzzle/ui/hp_player.png" Plist="" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position Y="3.0000" />
+            <Position X="1.0574" Y="582.3801" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize />
           </AbstractNodeData>
-          <AbstractNodeData Name="Node_2" CanEdit="False" ActionTag="1179736347" Tag="910" IconVisible="True" LeftMargin="0.5972" RightMargin="-0.5972" TopMargin="-3.0000" BottomMargin="3.0000" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="Node_1_0" CanEdit="False" ActionTag="-89598825" Tag="70" IconVisible="True" ctype="SingleNodeObjectData">
             <Size />
             <Children>
-              <AbstractNodeData Name="bg_ferver_bar_1" ActionTag="-1512691766" Tag="692" IconVisible="False" LeftMargin="238.4313" RightMargin="-662.4313" TopMargin="-35.6723" BottomMargin="-4.3277" ctype="SpriteObjectData">
-                <Size X="424.0000" Y="40.0000" />
+              <AbstractNodeData Name="bg_hp_meter_player_1_5" ActionTag="-1064583779" Tag="71" IconVisible="False" LeftMargin="63.7500" RightMargin="-569.7500" TopMargin="-26.8600" BottomMargin="0.8600" ctype="SpriteObjectData">
+                <Size X="506.0000" Y="26.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="450.4313" Y="15.6723" />
-                <Scale ScaleX="0.5000" ScaleY="0.5000" />
-                <CColor A="255" R="255" G="255" B="255" />
+                <Position X="316.7500" Y="13.8600" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="152" B="0" />
                 <PrePosition />
                 <PreSize />
-                <FileData Type="Normal" Path="images/puzzle/ui/bg_ferver_bar.png" Plist="" />
+                <FileData Type="Normal" Path="images/puzzle/ui/bg_hp_meter_player.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="EnBar" ActionTag="-166315892" Tag="833" IconVisible="False" LeftMargin="348.2443" RightMargin="-552.2443" TopMargin="-22.8348" BottomMargin="8.8348" ProgressInfo="0" ctype="LoadingBarObjectData">
-                <Size X="204.0000" Y="14.0000" />
+              <AbstractNodeData Name="EnBar" ActionTag="-778354051" Tag="72" IconVisible="False" LeftMargin="89.4300" RightMargin="-563.4300" TopMargin="-24.6800" BottomMargin="4.6800" ProgressInfo="0" ctype="LoadingBarObjectData">
+                <Size X="474.0000" Y="20.0000" />
                 <AnchorPoint ScaleY="0.5000" />
-                <Position X="348.2443" Y="15.8348" />
+                <Position X="89.4300" Y="14.6800" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize />
-                <ImageFileData Type="Normal" Path="images/puzzle/ui/bar_hp.png" Plist="" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="ball_light_4" ActionTag="1710580518" Tag="423" IconVisible="False" LeftMargin="273.5253" RightMargin="-401.5253" TopMargin="-79.7218" BottomMargin="-48.2782" ctype="SpriteObjectData">
-                <Size X="128.0000" Y="128.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="337.5253" Y="15.7218" />
-                <Scale ScaleX="0.1416" ScaleY="0.1416" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition />
-                <PreSize />
-                <FileData Type="Normal" Path="images/puzzle/block/ball_light.png" Plist="" />
-                <BlendFunc Src="1" Dst="771" />
+                <ImageFileData Type="Normal" Path="images/puzzle/ui/hp_player.png" Plist="" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="0.5972" Y="3.0000" />
+            <Position />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

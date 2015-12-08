@@ -6,7 +6,7 @@
       <ObjectData Name="Scene" ctype="GameNodeObjectData">
         <Size X="640.0000" Y="960.0000" />
         <Children>
-          <AbstractNodeData Name="Bg1" CanEdit="False" ActionTag="414809078" Tag="55" IconVisible="False" TopMargin="176.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Bg1" ActionTag="414809078" Tag="55" IconVisible="False" ctype="SpriteObjectData">
             <Size X="640.0000" Y="960.0000" />
             <AnchorPoint />
             <Position />
@@ -17,13 +17,13 @@
             <FileData Type="Normal" Path="images/puzzle/road/puzzle_road_8.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Bg2" CanEdit="False" ActionTag="-22736181" Tag="9" IconVisible="False" LeftMargin="2.6447" RightMargin="-2.6447" TopMargin="-783.5145" BottomMargin="959.5145" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Bg2" ActionTag="-22736181" Tag="9" IconVisible="False" TopMargin="-960.0000" BottomMargin="960.0000" ctype="SpriteObjectData">
             <Size X="640.0000" Y="960.0000" />
             <AnchorPoint />
-            <Position X="2.6447" Y="959.5145" />
+            <Position Y="960.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0041" Y="0.8446" />
+            <PrePosition Y="1.0000" />
             <PreSize />
             <FileData Type="Normal" Path="images/puzzle/road/puzzle_road_8.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
