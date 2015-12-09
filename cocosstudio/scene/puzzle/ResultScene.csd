@@ -4,7 +4,7 @@
     <Content>
       <Animation Duration="0" Speed="1.0000" />
       <ObjectData Name="Scene" Tag="42" ctype="GameNodeObjectData">
-        <Size X="640.0000" Y="960.0000" />
+        <Size X="640.0000" Y="1136.0000" />
         <Children>
           <AbstractNodeData Name="bg_result_3" ActionTag="-2107503043" Tag="66" Alpha="179" IconVisible="False" LeftMargin="-111.5411" RightMargin="-100.4589" TopMargin="-176.0000" BottomMargin="0.0001" ctype="SpriteObjectData">
             <Size X="852.0000" Y="1136.0000" />
@@ -29,14 +29,14 @@
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="ButtonOk" ActionTag="-1434054471" Tag="21" IconVisible="False" LeftMargin="221.8625" RightMargin="232.1375" TopMargin="718.9162" BottomMargin="167.0838" ctype="SpriteObjectData">
-            <Size X="186.0000" Y="74.0000" />
+            <Size X="46.0000" Y="46.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="314.8625" Y="204.0838" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4920" Y="0.2126" />
             <PreSize />
-            <FileData Type="Normal" Path="images/common/button_ok.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="ProjectNode_1" ActionTag="-1164240145" Tag="68" IconVisible="True" VerticalEdge="TopEdge" LeftMargin="40.0000" RightMargin="600.0000" TopMargin="115.0000" BottomMargin="1021.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">

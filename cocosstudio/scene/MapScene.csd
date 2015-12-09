@@ -209,7 +209,7 @@
         </Timeline>
       </Animation>
       <ObjectData Name="Scene" Tag="34" ctype="GameNodeObjectData">
-        <Size X="640.0000" Y="960.0000" />
+        <Size X="640.0000" Y="1136.0000" />
         <Children>
           <AbstractNodeData Name="ScrollView" ActionTag="1287637070" Tag="120" IconVisible="False" TopMargin="-176.0000" TouchEnable="True" ComboBoxIndex="1" ColorAngle="90.0000" IsBounceEnabled="True" ScrollDirectionType="Vertical_Horizontal" ctype="ScrollViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
