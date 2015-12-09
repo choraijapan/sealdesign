@@ -63,6 +63,13 @@
             <Image Name="footer_5_on.png" />
             <Image Name="footer_6.png" />
             <Image Name="footer_6_on.png" />
+            <Image Name="list_frame1.png" />
+            <Image Name="luck_exp_bar.png" />
+            <Image Name="main_l_btn1.png" />
+            <Image Name="main_l_btn2.png" />
+            <Image Name="main_s_btn1.png" />
+            <Image Name="main_s_btn2.png" />
+            <Image Name="ope_info_frame.png" />
           </Folder>
           <Folder Name="boss">
             <Image Name="20151018.png" />
@@ -460,12 +467,16 @@
           <Folder Name="puzzle">
             <Project Name="PuzzleCardNode.csd" Type="Node" />
             <Project Name="PuzzlePauseLayer.csd" Type="Layer" />
+            <Project Name="ConfirmLayer.csd" Type="Layer" />
           </Folder>
           <Folder Name="common">
             <Project Name="CardNode.csd" Type="Node" />
             <Project Name="HeaderNode.csd" Type="Node" />
             <Project Name="BlockLayer.csd" Type="Layer" />
             <Project Name="FooterNode.csd" Type="Node" />
+          </Folder>
+          <Folder Name="deck">
+            <Project Name="Deck.csd" Type="Node" />
           </Folder>
         </Folder>
         <Folder Name="layer">
