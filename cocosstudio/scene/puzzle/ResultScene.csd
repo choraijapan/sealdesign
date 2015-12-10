@@ -28,17 +28,6 @@
             <FileData Type="Normal" Path="images/common/bg_long.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ButtonOk" ActionTag="-1434054471" Tag="21" IconVisible="False" LeftMargin="291.8625" RightMargin="302.1375" TopMargin="908.9162" BottomMargin="181.0838" ctype="SpriteObjectData">
-            <Size X="46.0000" Y="46.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="314.8625" Y="204.0838" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4920" Y="0.1797" />
-            <PreSize />
-            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
           <AbstractNodeData Name="ProjectNode_1" ActionTag="-1164240145" Tag="68" IconVisible="True" VerticalEdge="TopEdge" LeftMargin="40.0000" RightMargin="600.0000" TopMargin="115.0000" BottomMargin="1021.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
             <Size />
             <AnchorPoint />

@@ -89,7 +89,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize />
-                <ImageFileData Type="Normal" Path="images/puzzle/ui/hp_player.png" Plist="" />
+                <ImageFileData Type="Normal" Path="images/common/hp_player.png" Plist="" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
@@ -121,7 +121,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize />
-                <ImageFileData Type="Normal" Path="images/puzzle/ui/hp_player.png" Plist="" />
+                <ImageFileData Type="Normal" Path="images/common/hp_player.png" Plist="" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint />

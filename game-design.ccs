@@ -12,6 +12,8 @@
           </Folder>
           <Project Name="MapScene.csd" Type="Scene" />
           <Project Name="TopScene.csd" Type="Scene" />
+          <Project Name="DownloadScene.csd" Type="Scene" />
+          <Project Name="TitleScene.csd" Type="Scene" />
         </Folder>
         <Folder Name="images">
           <Folder Name="card">
@@ -70,10 +72,43 @@
             <Image Name="main_s_btn1.png" />
             <Image Name="main_s_btn2.png" />
             <Image Name="ope_info_frame.png" />
+            <Image Name="btn_105x83b_1.png" />
+            <Image Name="btn_105x83b_2.png" />
+            <Image Name="btn_105x83r_1.png" />
+            <Image Name="btn_105x83r_2.png" />
+            <Image Name="btn_140x62b_1.png" />
+            <Image Name="btn_140x62b_2.png" />
+            <Image Name="btn_140x62r_1.png" />
+            <Image Name="btn_140x62r_2.png" />
+            <Image Name="btn_151x84_1.png" />
+            <Image Name="btn_151x84_2.png" />
+            <Image Name="btn_188x64b_1.png" />
+            <Image Name="btn_188x64b_2.png" />
+            <Image Name="btn_188x64r_1.png" />
+            <Image Name="btn_188x64r_2.png" />
+            <Image Name="btn_188x64y_1.png" />
+            <Image Name="btn_188x64y_2.png" />
+            <Image Name="btn_84x84_1.png" />
+            <Image Name="btn_84x84_2.png" />
+            <Image Name="btn_98x84_1.png" />
+            <Image Name="btn_98x84_2.png" />
+            <Image Name="btn_back_1.png" />
+            <Image Name="btn_back_2.png" />
+            <Image Name="btn_header_back_1.png" />
+            <Image Name="btn_header_back_2.png" />
+            <Image Name="btn_main_1.png" />
+            <Image Name="btn_main_2.png" />
+            <Image Name="btn_right_1.png" />
+            <Image Name="btn_right_2.png" />
+            <Image Name="hp_player.png" />
+            <Image Name="battle_heart_icon.png" />
+            <Image Name="logo.png" />
           </Folder>
           <Folder Name="boss">
             <Image Name="20151018.png" />
             <Image Name="20151019.png" />
+            <Image Name="boss_skill.png" />
+            <Image Name="boss_skill_2.png" />
           </Folder>
           <Folder Name="top">
             <Image Name="header_bg.png" />
@@ -111,6 +146,7 @@
             <Image Name="home_win_raid_open.png" />
             <Image Name="home_win_randall.png" />
             <Image Name="gate_vortex.png" />
+            <Image Name="button_start.png" />
           </Folder>
           <Folder Name="map">
             <Image Name="hikari_1.png" />
@@ -228,6 +264,29 @@
                 <PlistParticleFile Name="weapon_double_sword_hit_front.plist" />
                 <PlistParticleFile Name="weapon_sword_hit_back.plist" />
                 <PlistParticleFile Name="weapon_sword_hit_front.plist" />
+                <PlistParticleFile Name="block_effect.plist" />
+                <PlistParticleFile Name="boom.plist" />
+                <PlistParticleFile Name="boss_atk_effect_fire.plist" />
+                <PlistParticleFile Name="card_atk_001.plist" />
+                <PlistParticleFile Name="fireWall.plist" />
+                <PlistParticleFile Name="hp_bar_heal.plist" />
+                <PlistParticleFile Name="particle_atk.plist" />
+                <PlistParticleFile Name="particle_boom.plist" />
+                <PlistParticleFile Name="particle_snow.plist" />
+                <PlistParticleFile Name="puzzle.plist" />
+                <Image Name="boom.png" />
+                <Image Name="card_atk_001.png" />
+                <Image Name="fireWall.png" />
+                <Image Name="leaf.png" />
+                <Image Name="particle_4star.png" />
+                <Image Name="particle_ballgra.png" />
+                <Image Name="particle_circle.png" />
+                <Image Name="particle_circle2.png" />
+                <Image Name="particle_snow.png" />
+                <Image Name="particle_star.png" />
+                <Image Name="particle_star2.png" />
+                <Image Name="particle_texture.png" />
+                <Image Name="puzzle.png" />
               </Folder>
             </Folder>
             <Folder Name="text">
@@ -302,7 +361,6 @@
               <Image Name="gauge_red_header_status_result_scene.png" />
               <Image Name="bg_ferver_bar.png" />
               <Image Name="gauge_experience.png" />
-              <Image Name="hp_player.png" />
               <Image Name="bar_ferver.png" />
               <Image Name="bg_result.jpg" />
               <Image Name="bar_hp.png" />
@@ -461,6 +519,50 @@
             <PlistParticleFile Name="eff_page_724_2.plist" />
             <PlistParticleFile Name="eff_page_724_3.plist" />
             <PlistParticleFile Name="eff_page_900.plist" />
+          </Folder>
+          <Folder Name="download">
+            <Folder Name="images">
+              <Image Name="bar_contents_download.png" />
+              <Image Name="bar_contents_download1.png" />
+              <Image Name="bar_contents_download2.png" />
+              <Image Name="bg_area_download.png" />
+              <Image Name="bg_contents_download.png" />
+              <Image Name="bg_delete_download.png" />
+              <Image Name="bg_repair_download.png" />
+              <Image Name="font_32pt_download.png" />
+              <Image Name="logo_pocodan_s.png" />
+              <Image Name="tips_bg.png" />
+              <Image Name="tips_content_001.png" />
+              <Image Name="tips_content_002.png" />
+              <Image Name="tips_content_003.png" />
+              <Image Name="tips_content_004.png" />
+              <Image Name="tips_content_005.png" />
+              <Image Name="tips_content_006.png" />
+              <Image Name="tips_content_007.png" />
+              <Image Name="tips_content_008.png" />
+              <Image Name="tips_content_009.png" />
+              <Image Name="tips_content_010.png" />
+              <Image Name="tips_content_011.png" />
+              <Image Name="tips_content_012.png" />
+              <Image Name="tips_title_001.png" />
+              <Image Name="tips_title_002.png" />
+              <Image Name="tips_title_003.png" />
+              <Image Name="tips_title_004.png" />
+              <Image Name="tips_title_005.png" />
+              <Image Name="tips_title_006.png" />
+              <Image Name="tips_title_007.png" />
+              <Image Name="tips_title_008.png" />
+              <Image Name="tips_title_009.png" />
+              <Image Name="tips_title_010.png" />
+              <Image Name="tips_title_011.png" />
+              <Image Name="tips_title_012.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="title">
+            <Folder Name="images">
+              <Image Name="notice_image_1136.jpg" />
+              <Image Name="notice_image_960.jpg" />
+            </Folder>
           </Folder>
         </Folder>
         <Folder Name="parts">
