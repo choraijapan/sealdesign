@@ -41,7 +41,7 @@
                 <PreSize />
                 <FileData Type="Normal" Path="parts/common/BackButtonNode.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="DrawButton" ActionTag="-1346945350" Tag="32" IconVisible="False" LeftMargin="255.3637" RightMargin="233.6363" TopMargin="931.4678" BottomMargin="120.5322" TouchEnable="True" FontSize="45" ButtonText="召喚" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="121" Scale9Height="62" ctype="ButtonObjectData">
+              <AbstractNodeData Name="DrawButton" ActionTag="-1346945350" Tag="32" IconVisible="False" LeftMargin="255.3637" RightMargin="233.6363" TopMargin="931.4678" BottomMargin="120.5322" TouchEnable="True" FontSize="45" ButtonText="召喚" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="121" Scale9Height="62" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
                 <Size X="151.0000" Y="84.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="330.8637" Y="162.5322" />
@@ -70,10 +70,10 @@
               <AbstractNodeData Name="Panel_1" ActionTag="381645598" Tag="51" IconVisible="False" TopMargin="557.9635" BottomMargin="278.0365" TouchEnable="True" BackColorAlpha="201" ComboBoxIndex="2" ColorAngle="90.0000" ctype="PanelObjectData">
                 <Size X="640.0000" Y="300.0000" />
                 <Children>
-                  <AbstractNodeData Name="Text_1" CanEdit="False" ActionTag="345495635" Tag="50" IconVisible="False" HorizontalEdge="BothEdge" LeftMargin="142.6169" RightMargin="141.3831" TopMargin="7.6380" BottomMargin="-15.6380" FontSize="24" LabelText="2016/09/13&#xA;「WOKAO神魔ガチャ」開催中！&#xA;&#xA;新たな極幻進化モンスター&#xA;「パンドラ(★5)」&#xA;「ディアボロス(★5)」&#xA;新モンスター&#xA;「ヴェルダンディ(★5)」&#xA;「アンドロメダ(★4)」&#xA;が出現率超絶UPで登場！！&#xA;" HorizontalAlignmentType="HT_Center" ctype="TextObjectData">
+                  <AbstractNodeData Name="Text_1" CanEdit="False" ActionTag="345495635" Tag="50" IconVisible="False" HorizontalEdge="BothEdge" LeftMargin="142.6400" RightMargin="141.3600" TopMargin="7.6380" BottomMargin="-15.6380" FontSize="24" LabelText="2016/09/13&#xA;「WOKAO神魔ガチャ」開催中！&#xA;&#xA;新たな極幻進化モンスター&#xA;「パンドラ(★5)」&#xA;「ディアボロス(★5)」&#xA;新モンスター&#xA;「ヴェルダンディ(★5)」&#xA;「アンドロメダ(★4)」&#xA;が出現率超絶UPで登場！！&#xA;" HorizontalAlignmentType="HT_Center" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="TextObjectData">
                     <Size X="356.0000" Y="308.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="320.6168" Y="138.3620" />
+                    <Position X="320.6400" Y="138.3620" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5010" Y="0.4612" />

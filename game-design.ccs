@@ -590,6 +590,7 @@
           <Project Name="WorldMapLayer.csd" Type="Layer" />
           <Folder Name="gacha">
             <Project Name="GachaLayer.csd" Type="Layer" />
+            <Project Name="GachaAnimationLayer.csd" Type="Layer" />
           </Folder>
         </Folder>
       </RootFolder>
