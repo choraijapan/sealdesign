@@ -7,7 +7,7 @@
           <ScaleFrame FrameIndex="0" X="0.0100" Y="0.0100">
             <EasingData Type="26" />
           </ScaleFrame>
-          <ScaleFrame FrameIndex="40" X="1.0000" Y="1.0000">
+          <ScaleFrame FrameIndex="40" X="2.0000" Y="2.0000">
             <EasingData Type="26" />
           </ScaleFrame>
         </Timeline>
@@ -25,13 +25,13 @@
       </Animation>
       <AnimationList>
         <AnimationInfo Name="gacha" StartIndex="0" EndIndex="50">
-          <RenderColor A="150" R="176" G="196" B="222" />
+          <RenderColor A="255" R="176" G="196" B="222" />
         </AnimationInfo>
       </AnimationList>
       <ObjectData Name="Layer" Tag="12" ctype="GameLayerObjectData">
         <Size X="640.0000" Y="1136.0000" />
         <Children>
-          <AbstractNodeData Name="ResultPanel" ActionTag="319836498" Tag="15" IconVisible="False" TouchEnable="True" BackColorAlpha="79" ComboBoxIndex="2" ColorAngle="90.0000" ctype="PanelObjectData">
+          <AbstractNodeData Name="ResultPanel" ActionTag="319836498" Tag="15" IconVisible="False" TouchEnable="True" ComboBoxIndex="2" ColorAngle="90.0000" ctype="PanelObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <Children>
               <AbstractNodeData Name="Particle_1" ActionTag="391822333" Tag="16" IconVisible="True" LeftMargin="327.7676" RightMargin="312.2324" TopMargin="404.1900" BottomMargin="731.8100" ctype="ParticleObjectData">
@@ -45,23 +45,23 @@
                 <FileData Type="Normal" Path="images/particles/effect_prt_1002.plist" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Sprite_1" ActionTag="-1463561565" Tag="13" IconVisible="False" LeftMargin="62.7576" RightMargin="65.2424" TopMargin="153.2357" BottomMargin="470.7643" ctype="SpriteObjectData">
-                <Size X="512.0000" Y="512.0000" />
+              <AbstractNodeData Name="Sprite_1" ActionTag="-1463561565" Tag="13" IconVisible="False" LeftMargin="158.1321" RightMargin="161.8679" TopMargin="369.1824" BottomMargin="286.8176" ctype="SpriteObjectData">
+                <Size X="320.0000" Y="480.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="318.7576" Y="726.7643" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="318.1321" Y="526.8176" />
+                <Scale ScaleX="2.0000" ScaleY="2.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4981" Y="0.6398" />
+                <PrePosition X="0.4971" Y="0.4637" />
                 <PreSize />
-                <FileData Type="Normal" Path="images/card/20151204.png" Plist="" />
+                <FileData Type="Normal" Path="images/common/142Z14521-0.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Text_1" ActionTag="-492434679" Tag="14" IconVisible="False" LeftMargin="234.4841" RightMargin="248.5159" TopMargin="747.4742" BottomMargin="262.5258" FontSize="36" LabelText="ATK:5000&#xA;HP:8300&#xA;" HorizontalAlignmentType="HT_Center" ctype="TextObjectData">
-                <Size X="157.0000" Y="126.0000" />
+              <AbstractNodeData Name="Text_1" ActionTag="-492434679" Tag="14" IconVisible="False" LeftMargin="234.4841" RightMargin="248.5159" TopMargin="747.4742" BottomMargin="262.5258" FontSize="36" LabelText="Nice to meet you!!!" HorizontalAlignmentType="HT_Center" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ShadowEnabled="True" ctype="TextObjectData">
+                <Size X="300.0000" Y="42.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="312.9841" Y="325.5258" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
+                <Scale ScaleX="0.0100" ScaleY="0.0100" />
+                <CColor A="255" R="26" G="26" B="26" />
                 <PrePosition X="0.4890" Y="0.2866" />
                 <PreSize />
                 <OutlineColor A="255" R="255" G="0" B="0" />

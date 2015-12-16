@@ -34,6 +34,7 @@
           <FilePathData Path="scene/TestScene.csd" />
           <FilePathData Path="scene/TopScene.csd" />
           <FilePathData Path="layer/gacha/GachaAnimationLayer.csd" />
+          <FilePathData Path="parts/common/FooterNode.csd" />
         </OpenedDocuments>
         <ActiveDocument Path="layer/gacha/GachaAnimationLayer.csd" />
       </Value>

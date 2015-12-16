@@ -104,6 +104,7 @@
             <Image Name="hp_player.png" />
             <Image Name="battle_heart_icon.png" />
             <Image Name="logo.png" />
+            <Image Name="142Z14521-0.png" />
           </Folder>
           <Folder Name="boss">
             <Image Name="20151018.png" />
