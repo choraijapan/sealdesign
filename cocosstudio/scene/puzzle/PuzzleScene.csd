@@ -28,7 +28,7 @@
             <FileData Type="Normal" Path="images/puzzle/road/puzzle_road_8.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="MenuButton" ActionTag="-139665545" Tag="4525" IconVisible="False" LeftMargin="522.2650" RightMargin="5.7350" TopMargin="7.4861" BottomMargin="1086.5139" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="82" Scale9Height="20" ctype="ButtonObjectData">
+          <AbstractNodeData Name="MenuButton" ActionTag="-139665545" Tag="4525" IconVisible="False" LeftMargin="522.2650" RightMargin="5.7350" TopMargin="7.4861" BottomMargin="1086.5139" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="82" Scale9Height="20" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
             <Size X="112.0000" Y="42.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="578.2650" Y="1107.5139" />

@@ -14,6 +14,7 @@
           <Project Name="TopScene.csd" Type="Scene" />
           <Project Name="DownloadScene.csd" Type="Scene" />
           <Project Name="TitleScene.csd" Type="Scene" />
+          <Project Name="TestScene.csd" Type="Scene" />
         </Folder>
         <Folder Name="images">
           <Folder Name="card">
@@ -564,6 +565,9 @@
               <Image Name="notice_image_960.jpg" />
             </Folder>
           </Folder>
+          <Folder Name="gacha">
+            <Image Name="bg_base.png" />
+          </Folder>
         </Folder>
         <Folder Name="parts">
           <Folder Name="puzzle">
@@ -576,6 +580,7 @@
             <Project Name="HeaderNode.csd" Type="Node" />
             <Project Name="BlockLayer.csd" Type="Layer" />
             <Project Name="FooterNode.csd" Type="Node" />
+            <Project Name="BackButtonNode.csd" Type="Node" />
           </Folder>
           <Folder Name="deck">
             <Project Name="Deck.csd" Type="Node" />
@@ -583,6 +588,9 @@
         </Folder>
         <Folder Name="layer">
           <Project Name="WorldMapLayer.csd" Type="Layer" />
+          <Folder Name="gacha">
+            <Project Name="GachaLayer.csd" Type="Layer" />
+          </Folder>
         </Folder>
       </RootFolder>
     </Group>

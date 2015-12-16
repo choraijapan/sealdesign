@@ -40,7 +40,7 @@
                 <FileData Type="Normal" Path="images/particles/eff_page_1200_4.plist" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="ButtonStart" ActionTag="1639431976" Tag="716" IconVisible="False" LeftMargin="89.6816" RightMargin="85.3184" TopMargin="904.2935" BottomMargin="171.7066" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="435" Scale9Height="38" ctype="ButtonObjectData">
+              <AbstractNodeData Name="ButtonStart" ActionTag="1639431976" Tag="716" IconVisible="False" LeftMargin="89.6816" RightMargin="85.3184" TopMargin="904.2935" BottomMargin="171.7066" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="435" Scale9Height="38" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
                 <Size X="465.0000" Y="60.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="322.1816" Y="201.7066" />

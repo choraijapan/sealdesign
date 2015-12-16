@@ -12,7 +12,7 @@
             <Position X="-111.5411" Y="0.0001" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="-0.1743" Y="0.0000" />
+            <PrePosition X="-0.1743" />
             <PreSize />
             <FileData Type="Normal" Path="images/puzzle/ui/bg_result.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
@@ -44,7 +44,7 @@
             <Position X="-0.0001" Y="1.7849" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0000" Y="0.0016" />
+            <PrePosition Y="0.0016" />
             <PreSize X="1.0000" Y="1.0000" />
             <SingleColor A="255" R="150" G="200" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />
