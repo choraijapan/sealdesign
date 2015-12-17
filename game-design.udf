@@ -27,13 +27,5 @@
         <LastRunType Value="Unknown" />
       </Value>
     </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="layer/gacha/GachaLayer.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="layer/gacha/GachaLayer.csd" />
-      </Value>
-    </Item>
   </Properties>
 </UserData>

@@ -568,6 +568,12 @@
           </Folder>
           <Folder Name="gacha">
             <Image Name="bg_base.png" />
+            <Image Name="gacha_normal_summons_btn1.png" />
+            <Image Name="gacha_normal_summons_btn2.png" />
+            <Image Name="gacha_rare_summons_btn1.png" />
+            <Image Name="gacha_rare_summons_btn2.png" />
+            <Image Name="win_language.png" />
+            <Image Name="win_button_close.png" />
           </Folder>
         </Folder>
         <Folder Name="parts">
