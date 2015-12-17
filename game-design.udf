@@ -31,12 +31,8 @@
       <Value ctype="TabsInfo">
         <OpenedDocuments>
           <FilePathData Path="layer/gacha/GachaLayer.csd" />
-          <FilePathData Path="scene/TestScene.csd" />
-          <FilePathData Path="scene/TopScene.csd" />
-          <FilePathData Path="layer/gacha/GachaAnimationLayer.csd" />
-          <FilePathData Path="parts/common/FooterNode.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="layer/gacha/GachaAnimationLayer.csd" />
+        <ActiveDocument Path="layer/gacha/GachaLayer.csd" />
       </Value>
     </Item>
   </Properties>

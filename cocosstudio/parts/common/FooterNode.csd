@@ -51,7 +51,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Button_1_2" ActionTag="-367659472" Tag="51" IconVisible="False" LeftMargin="321.9882" RightMargin="-426.9882" TopMargin="-105.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="75" Scale9Height="83" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
+          <AbstractNodeData Name="CardsButton" ActionTag="-367659472" Tag="51" IconVisible="False" LeftMargin="321.9882" RightMargin="-426.9882" TopMargin="-105.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="75" Scale9Height="83" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
             <Size X="105.0000" Y="105.0000" />
             <AnchorPoint />
             <Position X="321.9882" />
