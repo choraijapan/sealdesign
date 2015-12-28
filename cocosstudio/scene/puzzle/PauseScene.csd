@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="1.0000" Y="0.8451" />
-            <FileData Type="Normal" Path="parts/puzzle/PuzzlePauseLayer.csd" Plist="" />
+            <FileData Type="Normal" Path="layer/puzzle/PuzzlePauseLayer.csd" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

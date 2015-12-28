@@ -27,6 +27,16 @@
             <Image Name="20151202.png" />
             <Image Name="20151204.png" />
             <Image Name="20151203.png" />
+            <Image Name="bg_house.jpg" />
+            <Image Name="bg_house_night.jpg" />
+            <Image Name="bg_evolution_top.png" />
+            <Image Name="invite_bg.png" />
+            <Image Name="strengthen_result_monster_bg.png" />
+            <Image Name="popup_bg1.png" />
+            <Image Name="menulist_bg_technical_frame.png" />
+            <Image Name="bg_questarea_webview.png" />
+            <Image Name="ArrowLeft_47x53.png" />
+            <Image Name="ArrowRight_47x53.png" />
           </Folder>
           <Folder Name="common">
             <Image Name="monster_deck_bg.png" />
@@ -579,13 +589,10 @@
         <Folder Name="parts">
           <Folder Name="puzzle">
             <Project Name="PuzzleCardNode.csd" Type="Node" />
-            <Project Name="PuzzlePauseLayer.csd" Type="Layer" />
-            <Project Name="ConfirmLayer.csd" Type="Layer" />
           </Folder>
           <Folder Name="common">
             <Project Name="CardNode.csd" Type="Node" />
             <Project Name="HeaderNode.csd" Type="Node" />
-            <Project Name="BlockLayer.csd" Type="Layer" />
             <Project Name="FooterNode.csd" Type="Node" />
             <Project Name="BackButtonNode.csd" Type="Node" />
           </Folder>
@@ -598,6 +605,16 @@
           <Folder Name="gacha">
             <Project Name="GachaLayer.csd" Type="Layer" />
             <Project Name="GachaAnimationLayer.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="card">
+            <Project Name="CardBaseLayer.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="common">
+            <Project Name="BlockLayer.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="puzzle">
+            <Project Name="ConfirmLayer.csd" Type="Layer" />
+            <Project Name="PuzzlePauseLayer.csd" Type="Layer" />
           </Folder>
         </Folder>
       </RootFolder>

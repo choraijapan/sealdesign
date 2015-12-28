@@ -6,15 +6,15 @@
       <ObjectData Name="Scene" Tag="33" ctype="GameNodeObjectData">
         <Size X="640.0000" Y="1136.0000" />
         <Children>
-          <AbstractNodeData Name="ProjectNode_2" ActionTag="1478497221" Tag="31" IconVisible="True" LeftMargin="-6.1754" RightMargin="6.1754" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+          <AbstractNodeData Name="ProjectNode_7" ActionTag="1845472103" Tag="553" IconVisible="True" LeftMargin="-1.8657" RightMargin="1.8657" TopMargin="41.0428" BottomMargin="-41.0429" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <AnchorPoint />
-            <Position X="-6.1754" />
+            <Position X="-1.8657" Y="-41.0429" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="-0.0096" />
-            <PreSize />
-            <FileData Type="Normal" Path="layer/gacha/GachaLayer.csd" Plist="" />
+            <PrePosition X="-0.0029" Y="-0.0361" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <FileData Type="Normal" Path="layer/card/CardBaseLayer.csd" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
