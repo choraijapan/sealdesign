@@ -161,14 +161,15 @@
             <Image Name="button_start.png" />
           </Folder>
           <Folder Name="map">
-            <Image Name="hikari_1.png" />
-            <Image Name="hi_1.png" />
-            <Image Name="ki_1.png" />
-            <Image Name="mizu_1.png" />
             <Image Name="rasen.png" />
-            <Image Name="yami_1.png" />
             <Image Name="MS01.png" />
             <Image Name="MS02.png" />
+            <Image Name="08.png" />
+            <Image Name="09.png" />
+            <Image Name="Map_A_1 (1).png" />
+            <Image Name="Map_A_1 (2).png" />
+            <Image Name="map_A_1.png" />
+            <Image Name="map_A_2.png" />
           </Folder>
           <Folder Name="puzzle">
             <Folder Name="block">
@@ -388,6 +389,60 @@
               <Image Name="puzzle_road_6.jpg" />
               <Image Name="puzzle_road_7.jpg" />
               <Image Name="puzzle_road_8.jpg" />
+              <Folder Name="image">
+                <Image Name="bg.png" />
+                <Image Name="floor_f0.png" />
+                <Image Name="floor_f0_02.png" />
+                <Image Name="floor_n0.png" />
+                <Image Name="obj0.png" />
+                <Image Name="obj1.png" />
+                <Image Name="obj2.png" />
+                <Image Name="obj3.png" />
+              </Folder>
+              <Folder Name="001">
+                <Image Name="bottom.png" />
+                <Image Name="map.jpg" />
+                <Image Name="middle.png" />
+                <Image Name="object_1.png" />
+                <Image Name="object_2.png" />
+                <Image Name="object_3.png" />
+                <Image Name="object_4.png" />
+                <Image Name="object_5.png" />
+                <Image Name="sample.png" />
+                <Image Name="top.png" />
+              </Folder>
+              <Folder Name="002">
+                <Image Name="bottom.png" />
+                <Image Name="download.jpg" />
+                <Image Name="map.jpg" />
+                <Image Name="middle.png" />
+                <Image Name="object_1.png" />
+                <Image Name="object_2.png" />
+                <Image Name="sample.png" />
+                <Image Name="top.png" />
+              </Folder>
+              <Folder Name="003">
+                <Image Name="bottom.png" />
+                <Image Name="map.jpg" />
+                <Image Name="middle.png" />
+                <Image Name="object_1.png" />
+                <Image Name="object_2.png" />
+                <Image Name="object_3.png" />
+                <Image Name="object_4.png" />
+                <Image Name="object_5.png" />
+                <Image Name="sample.png" />
+                <Image Name="top.png" />
+              </Folder>
+              <Folder Name="004">
+                <Image Name="bottom.png" />
+                <Image Name="map.jpg" />
+                <Image Name="middle.png" />
+                <Image Name="object_1.png" />
+                <Image Name="object_2.png" />
+                <Image Name="object_3.png" />
+                <Image Name="sample.png" />
+                <Image Name="top.png" />
+              </Folder>
             </Folder>
           </Folder>
           <Folder Name="font">
@@ -615,6 +670,9 @@
           <Folder Name="puzzle">
             <Project Name="ConfirmLayer.csd" Type="Layer" />
             <Project Name="PuzzlePauseLayer.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="map">
+            <Project Name="MapLayer.csd" Type="Layer" />
           </Folder>
         </Folder>
       </RootFolder>

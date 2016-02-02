@@ -39,10 +39,10 @@
             <PreSize />
             <FileData Type="Normal" Path="images/common/monster_thum_green.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="EnergyBar" ActionTag="194200381" Tag="30" Rotation="-89.9471" RotationSkewX="-89.9471" RotationSkewY="-89.9467" IconVisible="False" LeftMargin="-6.4162" RightMargin="-84.5838" TopMargin="-6.4913" BottomMargin="-5.5087" ProgressInfo="0" ctype="LoadingBarObjectData">
+          <AbstractNodeData Name="EnergyBar" ActionTag="194200381" Tag="30" RotationSkewY="0.0004" IconVisible="False" LeftMargin="-45.5000" RightMargin="-45.5000" TopMargin="34.0000" BottomMargin="-46.0000" ProgressInfo="0" ctype="LoadingBarObjectData">
             <Size X="91.0000" Y="12.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="39.0838" Y="0.4913" />
+            <Position Y="-40.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />

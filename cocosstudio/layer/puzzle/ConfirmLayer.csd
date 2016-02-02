@@ -6,13 +6,23 @@
       <ObjectData Name="Layer" Tag="88" ctype="GameLayerObjectData">
         <Size X="640.0000" Y="960.0000" />
         <Children>
-          <AbstractNodeData Name="MainPanel" ActionTag="2056412880" Tag="28" IconVisible="False" LeftMargin="3.9108" RightMargin="-963.9108" TopMargin="-687.0717" BottomMargin="47.0717" TouchEnable="True" StretchWidthEnable="True" StretchHeightEnable="True" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
-            <Size X="1600.0000" Y="1600.0000" />
+          <AbstractNodeData Name="ProjectNode_1" ActionTag="423890453" Tag="503" IconVisible="True" LeftMargin="-1.5347" RightMargin="1.5347" TopMargin="-0.1907" BottomMargin="0.1907" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
+            <Size X="640.0000" Y="960.0000" />
             <AnchorPoint />
-            <Position X="3.9108" Y="47.0717" />
+            <Position X="-1.5347" Y="0.1907" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0061" Y="0.0490" />
+            <PrePosition X="-0.0024" Y="0.0002" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <FileData Type="Normal" Path="layer/common/BlockLayer.csd" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="MainPanel" ActionTag="2056412880" Tag="28" IconVisible="False" RightMargin="-960.0000" TopMargin="-640.0000" TouchEnable="True" StretchWidthEnable="True" StretchHeightEnable="True" BackColorAlpha="153" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="1600.0000" Y="1600.0000" />
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
             <PreSize X="2.5000" Y="1.6667" />
             <SingleColor A="255" R="0" G="0" B="0" />
             <FirstColor A="255" R="150" G="200" B="255" />
@@ -193,7 +203,7 @@
             <FileData Type="Normal" Path="images/boss/boss_skill_2.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_1" ActionTag="-1901058872" Tag="239" IconVisible="False" LeftMargin="124.3342" RightMargin="364.6658" TopMargin="359.5923" BottomMargin="531.4077" FontSize="20" LabelText="5秒一回の攻撃、&#xA;小ダーメージ&#xA;1200点" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_1" ActionTag="-1901058872" Tag="239" IconVisible="False" LeftMargin="124.3342" RightMargin="364.6658" TopMargin="359.5923" BottomMargin="531.4077" FontSize="20" LabelText="5秒一回の攻撃、&#xA;小ダーメージ&#xA;1200点" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="TextObjectData">
             <Size X="151.0000" Y="69.0000" />
             <AnchorPoint ScaleY="1.0000" />
             <Position X="124.3342" Y="600.4077" />
@@ -204,7 +214,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_1_0" ActionTag="-845864452" Tag="240" IconVisible="False" LeftMargin="125.3800" RightMargin="352.6200" TopMargin="430.1632" BottomMargin="460.8368" FontSize="20" LabelText="60秒一回の攻撃、&#xA;大ダーメージ&#xA;15000点" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_1_0" ActionTag="-845864452" Tag="240" IconVisible="False" LeftMargin="125.3800" RightMargin="352.6200" TopMargin="430.1632" BottomMargin="460.8368" FontSize="20" LabelText="60秒一回の攻撃、&#xA;大ダーメージ&#xA;15000点" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="TextObjectData">
             <Size X="162.0000" Y="69.0000" />
             <AnchorPoint ScaleY="1.0000" />
             <Position X="125.3800" Y="529.8368" />
@@ -226,7 +236,7 @@
             <FileData Type="Normal" Path="images/common/battle_heart_icon.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_1_1" ActionTag="700279305" Tag="242" IconVisible="False" LeftMargin="390.1626" RightMargin="149.8374" TopMargin="377.5923" BottomMargin="559.4077" FontSize="20" LabelText="10,000,000" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_1_1" ActionTag="700279305" Tag="242" IconVisible="False" LeftMargin="390.1626" RightMargin="149.8374" TopMargin="377.5923" BottomMargin="559.4077" FontSize="20" LabelText="10,000,000" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="TextObjectData">
             <Size X="100.0000" Y="23.0000" />
             <AnchorPoint ScaleY="0.5000" />
             <Position X="390.1626" Y="570.9077" />
@@ -234,6 +244,21 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.6096" Y="0.5947" />
             <PreSize />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="CloseButton" ActionTag="385439706" Tag="502" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="359.2303" RightMargin="20.7697" TopMargin="85.6582" BottomMargin="754.3418" TouchEnable="True" FontSize="48" ButtonText="Close" Scale9Enable="True" LeftEage="20" RightEage="60" TopEage="30" BottomEage="30" Scale9OriginX="20" Scale9OriginY="30" Scale9Width="180" Scale9Height="96" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
+            <Size X="260.0000" Y="120.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="489.2303" Y="814.3418" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="230" G="230" B="250" />
+            <PrePosition X="0.7644" Y="0.8483" />
+            <PreSize X="0.4063" Y="0.1250" />
+            <TextColor A="255" R="255" G="255" B="0" />
+            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+            <PressedFileData Type="Normal" Path="images/common/main_l_btn2.png" Plist="" />
+            <NormalFileData Type="Normal" Path="images/common/main_l_btn1.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
