@@ -1,5 +1,5 @@
 <GameProjectFile>
-  <PropertyGroup Type="Layer" Name="MapLayer" ID="97e99df2-d9f0-4630-be76-423c032de598" Version="2.3.0.1" />
+  <PropertyGroup Type="Layer" Name="MapLayer" ID="97e99df2-d9f0-4630-be76-423c032de598" Version="2.3.2.3" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -19,7 +19,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5949" Y="0.2044" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS02.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -30,7 +30,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.6478" Y="0.2965" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS02.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -41,7 +41,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5127" Y="0.1302" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS02.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -52,7 +52,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.3985" Y="0.1245" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS02.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -63,7 +63,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.2820" Y="0.1599" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS02.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -74,11 +74,11 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.2093" Y="0.2524" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="BtnEvent_1" ActionTag="2026873693" Tag="71" IconVisible="False" LeftMargin="414.0000" RightMargin="698.0000" TopMargin="813.5000" BottomMargin="302.5000" TouchEnable="True" FontSize="14" ButtonText="Button" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="58" Scale9Height="62" ctype="ButtonObjectData">
+                  <AbstractNodeData Name="BtnEvent_1" ActionTag="2026873693" Tag="71" IconVisible="False" LeftMargin="414.0000" RightMargin="698.0000" TopMargin="813.5000" BottomMargin="302.5000" TouchEnable="True" FontSize="14" ButtonText="Button" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="58" Scale9Height="62" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="88.0000" Y="84.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="458.0000" Y="344.5000" />
@@ -100,7 +100,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.2237" Y="0.3546" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -111,7 +111,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.3081" Y="0.4449" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -122,7 +122,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4065" Y="0.5193" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -133,7 +133,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5169" Y="0.5835" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -144,7 +144,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.6395" Y="0.6197" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -155,7 +155,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.6957" Y="0.7020" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -166,7 +166,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.7138" Y="0.7884" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -177,84 +177,84 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.8704" Y="0.8245" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="Particle_1" ActionTag="-1480172680" Tag="738" IconVisible="True" LeftMargin="267.5260" RightMargin="932.4740" TopMargin="327.5161" BottomMargin="872.4839" ctype="ParticleObjectData">
-                    <Size />
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint />
                     <Position X="267.5260" Y="872.4839" />
                     <Scale ScaleX="1.4820" ScaleY="1.4820" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.2229" Y="0.7271" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Default" Path="Default/defaultParticle.plist" Plist="" />
                     <BlendFunc Src="775" Dst="1" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="Particle_2" ActionTag="286145380" Tag="739" IconVisible="True" LeftMargin="339.8336" RightMargin="860.1664" TopMargin="997.5479" BottomMargin="202.4521" ctype="ParticleObjectData">
-                    <Size />
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint />
                     <Position X="339.8336" Y="202.4521" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.2832" Y="0.1687" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/effect/particle/multi_skill_charged_full_player.plist" Plist="" />
                     <BlendFunc Src="770" Dst="1" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="Particle_2_0" ActionTag="-1951300680" Tag="740" IconVisible="True" LeftMargin="455.8802" RightMargin="744.1198" TopMargin="848.4770" BottomMargin="351.5230" ctype="ParticleObjectData">
-                    <Size />
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint />
                     <Position X="455.8802" Y="351.5230" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.3799" Y="0.2929" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/effect/particle/multi_skill_charged_full_player.plist" Plist="" />
                     <BlendFunc Src="770" Dst="1" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="Particle_2_1" ActionTag="650145465" Tag="741" IconVisible="True" LeftMargin="479.9818" RightMargin="720.0182" TopMargin="1043.7024" BottomMargin="156.2976" ctype="ParticleObjectData">
-                    <Size />
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint />
                     <Position X="479.9818" Y="156.2976" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4000" Y="0.1302" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/effect/particle/multi_skill_charged_full_player.plist" Plist="" />
                     <BlendFunc Src="770" Dst="1" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="Particle_2_1_0" ActionTag="407861258" Tag="742" IconVisible="True" LeftMargin="620.1301" RightMargin="579.8699" TopMargin="1036.8328" BottomMargin="163.1673" ctype="ParticleObjectData">
-                    <Size />
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint />
                     <Position X="620.1301" Y="163.1673" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5168" Y="0.1360" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/effect/particle/multi_skill_charged_full_player.plist" Plist="" />
                     <BlendFunc Src="770" Dst="1" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="Particle_2_1_1" ActionTag="232279220" Tag="743" IconVisible="True" LeftMargin="716.5370" RightMargin="483.4630" TopMargin="947.6573" BottomMargin="252.3427" ctype="ParticleObjectData">
-                    <Size />
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint />
                     <Position X="716.5370" Y="252.3427" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5971" Y="0.2103" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/effect/particle/multi_skill_charged_full_player.plist" Plist="" />
                     <BlendFunc Src="770" Dst="1" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="Particle_2_1_2" ActionTag="-1368746436" Tag="744" IconVisible="True" LeftMargin="781.6063" RightMargin="418.3937" TopMargin="839.2003" BottomMargin="360.7997" ctype="ParticleObjectData">
-                    <Size />
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint />
                     <Position X="781.6063" Y="360.7997" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.6513" Y="0.3007" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/effect/particle/multi_skill_charged_full_player.plist" Plist="" />
                     <BlendFunc Src="770" Dst="1" />
                   </AbstractNodeData>
@@ -263,8 +263,8 @@
                 <Position X="-0.0002" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.0000" />
-                <PreSize />
+                <PrePosition />
+                <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="images/map/map_A_2.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>

@@ -1,5 +1,5 @@
 <GameProjectFile>
-  <PropertyGroup Type="Scene" Name="PuzzleScene" ID="a2ee0952-26b5-49ae-8bf9-4f1d6279b798" Version="2.3.0.1" />
+  <PropertyGroup Type="Scene" Name="PuzzleScene" ID="a2ee0952-26b5-49ae-8bf9-4f1d6279b798" Version="2.3.2.3" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="75" Speed="0.5000">
@@ -67,7 +67,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
-            <PreSize />
+            <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="images/puzzle/road/puzzle_road_8.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
@@ -78,11 +78,11 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition Y="0.8451" />
-            <PreSize />
+            <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="images/puzzle/road/puzzle_road_8.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="MenuButton" CanEdit="False" ActionTag="-139665545" Tag="4525" IconVisible="False" LeftMargin="522.2650" RightMargin="5.7350" TopMargin="7.4861" BottomMargin="1086.5139" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="82" Scale9Height="20" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
+          <AbstractNodeData Name="MenuButton" CanEdit="False" ActionTag="-139665545" Tag="4525" IconVisible="False" LeftMargin="522.2650" RightMargin="5.7350" TopMargin="7.4861" BottomMargin="1086.5139" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="82" Scale9Height="20" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
             <Size X="112.0000" Y="42.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="578.2650" Y="1107.5139" />
@@ -104,7 +104,7 @@
             <Scale ScaleX="2.0000" ScaleY="2.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4940" Y="0.9788" />
-            <PreSize />
+            <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="images/puzzle/road/004/top.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
@@ -121,7 +121,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.2292" Y="0.7375" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/road/004/object_2.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -131,7 +131,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
-                <PreSize />
+                <PreSize X="0.2578" Y="2.9929" />
                 <FileData Type="Normal" Path="images/puzzle/road/004/object_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -145,7 +145,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4848" Y="0.5967" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/road/004/object_2.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -155,7 +155,7 @@
                 <Scale ScaleX="-1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="1.0000" />
-                <PreSize />
+                <PreSize X="0.2578" Y="2.9929" />
                 <FileData Type="Normal" Path="images/puzzle/road/004/object_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -165,7 +165,7 @@
             <Scale ScaleX="0.2500" ScaleY="0.2500" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.8363" />
-            <PreSize />
+            <PreSize X="1.0000" Y="0.1232" />
             <FileData Type="Normal" Path="images/puzzle/road/004/bottom.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
@@ -182,7 +182,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4848" Y="0.5967" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/road/004/object_2.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -192,7 +192,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
-                <PreSize />
+                <PreSize X="0.2578" Y="2.9929" />
                 <FileData Type="Normal" Path="images/puzzle/road/004/object_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -206,7 +206,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4848" Y="0.5967" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/road/004/object_2.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -216,7 +216,7 @@
                 <Scale ScaleX="-1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="1.0000" />
-                <PreSize />
+                <PreSize X="0.2578" Y="2.9929" />
                 <FileData Type="Normal" Path="images/puzzle/road/004/object_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -226,11 +226,11 @@
             <Scale ScaleX="0.5000" ScaleY="0.5000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4986" Y="0.8055" />
-            <PreSize />
+            <PreSize X="1.0000" Y="0.1232" />
             <FileData Type="Normal" Path="images/puzzle/road/004/bottom.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="bottom_3" ActionTag="1850607074" Tag="176" IconVisible="False" LeftMargin="0.0726" RightMargin="-0.0726" TopMargin="291.0000" BottomMargin="705.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="bottom_3" ActionTag="1850607074" Tag="176" IconVisible="False" LeftMargin="0.0785" RightMargin="-0.0785" TopMargin="291.0000" BottomMargin="705.0000" ctype="SpriteObjectData">
             <Size X="640.0000" Y="140.0000" />
             <Children>
               <AbstractNodeData Name="object_left" ActionTag="2049674372" Tag="193" IconVisible="False" RightMargin="475.0000" TopMargin="-279.0000" ctype="SpriteObjectData">
@@ -243,7 +243,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4848" Y="0.5967" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/road/004/object_2.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -253,7 +253,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
-                <PreSize />
+                <PreSize X="0.2578" Y="2.9929" />
                 <FileData Type="Normal" Path="images/puzzle/road/004/object_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -267,7 +267,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4848" Y="0.5967" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/puzzle/road/004/object_2.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -277,7 +277,7 @@
                 <Scale ScaleX="-1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="1.0000" />
-                <PreSize />
+                <PreSize X="0.2578" Y="2.9929" />
                 <FileData Type="Normal" Path="images/puzzle/road/004/object_1.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -287,7 +287,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4989" Y="0.7438" />
-            <PreSize />
+            <PreSize X="1.0000" Y="0.1232" />
             <FileData Type="Normal" Path="images/puzzle/road/004/bottom.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
@@ -298,18 +298,18 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4910" Y="0.8470" />
-            <PreSize />
+            <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="images/puzzle/road/004/middle.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="sample_17" CanEdit="False" ActionTag="2069979525" Tag="169" Alpha="0" IconVisible="False" LeftMargin="159.5000" RightMargin="159.5000" TopMargin="256.5000" BottomMargin="516.5000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="sample_17" CanEdit="False" ActionTag="2069979525" Alpha="0" Tag="169" IconVisible="False" LeftMargin="159.5000" RightMargin="159.5000" TopMargin="256.5000" BottomMargin="516.5000" ctype="SpriteObjectData">
             <Size X="321.0000" Y="363.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="320.0000" Y="698.0000" />
             <Scale ScaleX="2.0000" ScaleY="2.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.6144" />
-            <PreSize />
+            <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="images/puzzle/road/004/sample.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>

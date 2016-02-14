@@ -1,5 +1,5 @@
 <GameProjectFile>
-  <PropertyGroup Type="Layer" Name="PuzzlePauseLayer" ID="c2a44817-050b-430a-80b4-6c04b48731d6" Version="2.3.0.1" />
+  <PropertyGroup Type="Layer" Name="PuzzlePauseLayer" ID="c2a44817-050b-430a-80b4-6c04b48731d6" Version="2.3.2.3" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -12,7 +12,7 @@
             <Position X="0.0005" Y="0.5716" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0000" Y="0.0006" />
+            <PrePosition Y="0.0006" />
             <PreSize X="2.5000" Y="1.6667" />
             <SingleColor A="255" R="0" G="0" B="0" />
             <FirstColor A="255" R="150" G="200" B="255" />
@@ -29,7 +29,7 @@
             <PreSize X="0.0930" Y="0.0740" />
             <FileData Type="Normal" Path="images/puzzle/ui/bg_pause_dialog.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ButtonResume" ActionTag="-1964100169" Tag="29" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="215.1985" RightMargin="184.8015" TopMargin="516.9017" BottomMargin="371.0983" TouchEnable="True" FontSize="26" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="20" BottomEage="20" Scale9OriginX="20" Scale9OriginY="20" Scale9Width="200" Scale9Height="32" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="ButtonObjectData">
+          <AbstractNodeData Name="ButtonResume" ActionTag="-1964100169" Tag="29" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="215.1985" RightMargin="184.8015" TopMargin="516.9017" BottomMargin="371.0983" TouchEnable="True" FontSize="26" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="20" BottomEage="20" Scale9OriginX="20" Scale9OriginY="20" Scale9Width="200" Scale9Height="32" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
             <Size X="240.0000" Y="72.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="335.1985" Y="407.0983" />
@@ -44,7 +44,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_1" ActionTag="-1475883282" Tag="30" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="115.3365" RightMargin="112.6635" TopMargin="200.8160" BottomMargin="453.1840" FontSize="16" LabelText="リリース日を想像しないで、目の前の事をやりましょう。&#xA;&#xA;難しい事を心配しなくでもいい、やれば行ける。&#xA;&#xA;一つだけ忘れないで、人生は一回しかないです。&#xA;&#xA;４５歳になったら、後悔薬がないですよ。&#xA;いくら払っても買えないですよ。&#xA;&#xA;４５歳になったら、５人一緒にハワイへ&#xA;旅行にいくのは目標ですね、&#xA;&#xA;会社は費用を払うww&#xA;&#xA;！！！！仲間を信じる！！！！&#xA;&#xA;" HorizontalAlignmentType="HT_Center" OutlineSize="0" ShadowOffsetX="0" ShadowOffsetY="0" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_1" ActionTag="-1475883282" Tag="30" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="115.3365" RightMargin="112.6635" TopMargin="200.8160" BottomMargin="453.1840" FontSize="16" LabelText="リリース日を想像しないで、目の前の事をやりましょう。&#xA;&#xA;難しい事を心配しなくでもいい、やれば行ける。&#xA;&#xA;一つだけ忘れないで、人生は一回しかないです。&#xA;&#xA;４５歳になったら、後悔薬がないですよ。&#xA;いくら払っても買えないですよ。&#xA;&#xA;４５歳になったら、５人一緒にハワイへ&#xA;旅行にいくのは目標ですね、&#xA;&#xA;会社は費用を払うww&#xA;&#xA;！！！！仲間を信じる！！！！&#xA;&#xA;" HorizontalAlignmentType="HT_Center" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="TextObjectData">
             <Size X="412.0000" Y="306.0000" />
             <AnchorPoint ScaleY="1.0000" />
             <Position X="115.3365" Y="759.1840" />

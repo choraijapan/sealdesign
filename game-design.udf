@@ -1,4 +1,4 @@
-<UserData>
+<UserData Version="2.3.2.3">
   <Properties>
     <Item Key="PackageParamsKey">
       <Value ctype="PackageParams">
@@ -11,6 +11,7 @@
         <iOS_Target Value="crown-design iOS" />
         <iOS_BundleID Value="iPhone Distribution: lin cui (TEUF8P26HG)" />
         <Platform Value="None" />
+        <RunPlatform Value="None" />
         <FrameworkVersion Value="cocos2d-x-3.6" />
         <IsDebugKeystore Value="True" />
         <KeystorePassword Value="" />
@@ -24,7 +25,7 @@
       <Value ctype="CocosRecentOperation">
         <LastPublishType Value="Resource" />
         <IsLastPublish Value="True" />
-        <LastRunType Value="Unknown" />
+        <LastRunType Value="Mac" />
       </Value>
     </Item>
   </Properties>

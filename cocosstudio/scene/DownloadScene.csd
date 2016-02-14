@@ -1,5 +1,5 @@
 <GameProjectFile>
-  <PropertyGroup Type="Scene" Name="DownloadScene" ID="20c59b9f-45a5-4dfc-b9cb-d02036708c3c" Version="2.3.0.1" />
+  <PropertyGroup Type="Scene" Name="DownloadScene" ID="20c59b9f-45a5-4dfc-b9cb-d02036708c3c" Version="2.3.2.3" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -13,7 +13,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5031" Y="0.5018" />
-            <PreSize />
+            <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="images/top/bg_base.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
@@ -24,7 +24,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4999" Y="0.1847" />
-            <PreSize />
+            <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="images/download/images/bg_contents_download.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
@@ -41,7 +41,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5162" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_bg.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -52,7 +52,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4969" Y="0.4067" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_content_008.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -63,7 +63,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4557" Y="1.0633" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_title_008.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -73,7 +73,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="1.0000" />
-                <PreSize />
+                <PreSize X="0.0000" Y="0.0000" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
@@ -89,7 +89,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5162" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_bg.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -100,7 +100,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4969" Y="0.4067" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_content_003.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -111,7 +111,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4643" Y="1.0655" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_title_004.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -121,7 +121,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.0156" Y="-0.0333" />
-                <PreSize />
+                <PreSize X="0.0000" Y="0.0000" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
@@ -137,7 +137,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5162" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_bg.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -148,7 +148,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4969" Y="0.4067" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_content_001.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -159,7 +159,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4667" Y="1.0709" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_title_001.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -169,7 +169,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.0313" Y="-0.0667" />
-                <PreSize />
+                <PreSize X="0.0000" Y="0.0000" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
@@ -185,7 +185,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5162" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_bg.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -196,7 +196,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4969" Y="0.4067" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_content_002.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -207,7 +207,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4563" Y="1.0764" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/download/images/tips_title_002.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -217,7 +217,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="3.0000" />
-                <PreSize />
+                <PreSize X="0.0000" Y="0.0000" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
@@ -229,7 +229,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition Y="0.4489" />
-            <PreSize />
+            <PreSize X="0.0000" Y="0.0000" />
             <SingleColor A="255" R="150" G="150" B="100" />
             <FirstColor A="255" R="150" G="150" B="100" />
             <EndColor A="255" R="255" G="255" B="255" />

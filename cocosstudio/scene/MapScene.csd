@@ -1,5 +1,5 @@
 <GameProjectFile>
-  <PropertyGroup Type="Scene" Name="MapScene" ID="65d162a1-24d0-4aa2-9516-71c11b83514e" Version="2.3.0.1" />
+  <PropertyGroup Type="Scene" Name="MapScene" ID="65d162a1-24d0-4aa2-9516-71c11b83514e" Version="2.3.2.3" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="60" Speed="0.1667">
@@ -221,7 +221,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4578" Y="0.4770" />
-                <PreSize />
+                <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="images/map/rasen.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -232,7 +232,7 @@
                 <Scale ScaleX="0.8779" ScaleY="0.8779" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4879" Y="0.8200" />
-                <PreSize />
+                <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -243,7 +243,7 @@
                 <Scale ScaleX="0.9428" ScaleY="0.9428" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.8292" Y="0.6239" />
-                <PreSize />
+                <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -254,13 +254,13 @@
                     <Size X="88.0000" Y="84.0000" />
                     <Children>
                       <AbstractNodeData Name="Particle_1" ActionTag="-2061214094" Tag="43" IconVisible="True" LeftMargin="46.7633" RightMargin="41.2367" TopMargin="32.1631" BottomMargin="51.8369" ctype="ParticleObjectData">
-                        <Size />
+                        <Size X="0.0000" Y="0.0000" />
                         <AnchorPoint />
                         <Position X="46.7633" Y="51.8369" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5314" Y="0.6171" />
-                        <PreSize />
+                        <PreSize X="0.0000" Y="0.0000" />
                         <FileData Type="Normal" Path="images/puzzle/effect/particle/multi_skill_charged_full_player.plist" Plist="" />
                         <BlendFunc Src="770" Dst="1" />
                       </AbstractNodeData>
@@ -277,13 +277,13 @@
                     <Size X="88.0000" Y="84.0000" />
                     <Children>
                       <AbstractNodeData Name="Particle_1_3" CanEdit="False" ActionTag="1216647011" Tag="68" IconVisible="True" LeftMargin="46.7633" RightMargin="41.2367" TopMargin="32.1631" BottomMargin="51.8369" ctype="ParticleObjectData">
-                        <Size />
+                        <Size X="0.0000" Y="0.0000" />
                         <AnchorPoint />
                         <Position X="46.7633" Y="51.8369" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5314" Y="0.6171" />
-                        <PreSize />
+                        <PreSize X="0.0000" Y="0.0000" />
                         <FileData Type="Normal" Path="images/puzzle/effect/particle/multi_skill_charged_full_player.plist" Plist="" />
                         <BlendFunc Src="770" Dst="1" />
                       </AbstractNodeData>
@@ -303,7 +303,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4811" Y="0.3660" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -314,7 +314,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5275" Y="0.4714" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -325,7 +325,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.3334" Y="0.5031" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -336,7 +336,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4663" Y="0.5706" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -347,7 +347,7 @@
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.6456" Y="0.5895" />
-                    <PreSize />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
@@ -357,7 +357,7 @@
                 <Scale ScaleX="0.9046" ScaleY="0.9046" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1444" Y="0.6086" />
-                <PreSize />
+                <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -368,7 +368,7 @@
                 <Scale ScaleX="0.9924" ScaleY="0.9924" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.6540" Y="0.2347" />
-                <PreSize />
+                <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -379,7 +379,7 @@
                 <Scale ScaleX="0.8741" ScaleY="0.8741" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1921" Y="0.1579" />
-                <PreSize />
+                <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
@@ -397,13 +397,13 @@
             <InnerNodeSize Width="2500" Height="1500" />
           </AbstractNodeData>
           <AbstractNodeData Name="Header" ActionTag="1423685122" Tag="109" IconVisible="True" LeftMargin="40.0000" RightMargin="600.0000" TopMargin="-61.0040" BottomMargin="1021.0040" InnerActionSpeed="0.1667" ctype="ProjectNodeObjectData">
-            <Size />
+            <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />
             <Position X="40.0000" Y="1021.0040" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.0625" Y="1.0635" />
-            <PreSize />
+            <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="parts/common/HeaderNode.csd" Plist="" />
           </AbstractNodeData>
         </Children>
