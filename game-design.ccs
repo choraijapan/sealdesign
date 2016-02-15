@@ -170,6 +170,7 @@
             <Image Name="Map_A_1 (2).png" />
             <Image Name="map_A_1.png" />
             <Image Name="map_A_2.png" />
+            <Image Name="world_map.jpg" />
           </Folder>
           <Folder Name="puzzle">
             <Folder Name="block">
@@ -672,6 +673,7 @@
             <Project Name="PuzzlePauseLayer.csd" Type="Layer" />
           </Folder>
           <Folder Name="map">
+            <Project Name="Map_0001.csd" Type="Layer" />
             <Project Name="MapLayer.csd" Type="Layer" />
           </Folder>
         </Folder>
