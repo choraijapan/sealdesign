@@ -27,5 +27,15 @@
         <LastRunType Value="Unknown" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="layer/puzzle/ConfirmLayer.csd" />
+          <FilePathData Path="layer/map/Map_0001.csd" />
+          <FilePathData Path="layer/map/MapLayer.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="layer/map/Map_0001.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>
