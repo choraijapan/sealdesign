@@ -1,5 +1,5 @@
 <Solution>
-  <PropertyGroup Name="game-design" Version="2.3.0.1" Type="CocosStudio" />
+  <PropertyGroup Name="game-design" Version="2.3.2.3" Type="CocosStudio" />
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
@@ -654,6 +654,10 @@
           </Folder>
           <Folder Name="deck">
             <Project Name="Deck.csd" Type="Node" />
+          </Folder>
+          <Folder Name="map">
+            <Project Name="QuestLocked.csd" Type="Node" />
+            <Project Name="QuestUnlocked.csd" Type="Node" />
           </Folder>
         </Folder>
         <Folder Name="layer">

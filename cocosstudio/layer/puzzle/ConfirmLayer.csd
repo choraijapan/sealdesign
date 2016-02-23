@@ -16,8 +16,8 @@
             <PreSize X="1.0000" Y="1.0000" />
             <FileData Type="Normal" Path="layer/common/BlockLayer.csd" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="MainPanel" ActionTag="2056412880" Tag="28" IconVisible="False" RightMargin="-960.0000" TopMargin="-640.0000" TouchEnable="True" StretchWidthEnable="True" StretchHeightEnable="True" BackColorAlpha="153" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
-            <Size X="1600.0000" Y="1600.0000" />
+          <AbstractNodeData Name="MainPanel" ActionTag="2056412880" Tag="28" IconVisible="False" VerticalEdge="TopEdge" RightMargin="-960.0000" TopMargin="-640.0320" TouchEnable="True" StretchWidthEnable="True" StretchHeightEnable="True" BackColorAlpha="153" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="1600.0000" Y="1600.0320" />
             <AnchorPoint />
             <Position />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -42,7 +42,7 @@
           <AbstractNodeData Name="MySelfButton" ActionTag="-1964100169" Tag="29" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="52.4319" RightMargin="327.5681" TopMargin="679.6791" BottomMargin="160.3209" TouchEnable="True" FontSize="48" ButtonText="ひとりで" Scale9Enable="True" LeftEage="20" RightEage="60" TopEage="30" BottomEage="30" Scale9OriginX="20" Scale9OriginY="30" Scale9Width="180" Scale9Height="96" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
             <Size X="260.0000" Y="120.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="182.4319" Y="220.3209" />
+            <Position X="182.4000" Y="220.3200" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="230" G="230" B="250" />
             <PrePosition X="0.2850" Y="0.2295" />
@@ -57,7 +57,7 @@
           <AbstractNodeData Name="MultiButton" ActionTag="757152868" Tag="11" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="334.2887" RightMargin="45.7113" TopMargin="675.2510" BottomMargin="164.7490" TouchEnable="True" FontSize="48" ButtonText="マルチ" Scale9Enable="True" LeftEage="20" RightEage="60" TopEage="30" BottomEage="30" Scale9OriginX="20" Scale9OriginY="30" Scale9Width="180" Scale9Height="96" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
             <Size X="260.0000" Y="120.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="464.2887" Y="224.7490" />
+            <Position X="464.3200" Y="224.7360" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="230" G="230" B="250" />
             <PrePosition X="0.7255" Y="0.2341" />
@@ -91,7 +91,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
-                <PreSize X="0.0000" Y="0.0000" />
+                <PreSize X="1.0000" Y="1.0000" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
@@ -116,7 +116,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="1.0000" />
-                <PreSize X="0.0000" Y="0.0000" />
+                <PreSize X="1.0000" Y="1.0000" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
@@ -141,7 +141,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="2.0000" />
-                <PreSize X="0.0000" Y="0.0000" />
+                <PreSize X="1.0000" Y="1.0000" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
@@ -153,7 +153,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.0476" Y="0.3192" />
-            <PreSize X="0.0000" Y="0.0000" />
+            <PreSize X="0.9063" Y="0.1563" />
             <SingleColor A="255" R="150" G="150" B="100" />
             <FirstColor A="255" R="150" G="150" B="100" />
             <EndColor A="255" R="255" G="255" B="255" />
@@ -250,7 +250,7 @@
           <AbstractNodeData Name="CloseButton" ActionTag="385439706" Tag="502" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="359.2303" RightMargin="20.7697" TopMargin="85.6582" BottomMargin="754.3418" TouchEnable="True" FontSize="48" ButtonText="Close" Scale9Enable="True" LeftEage="20" RightEage="60" TopEage="30" BottomEage="30" Scale9OriginX="20" Scale9OriginY="30" Scale9Width="180" Scale9Height="96" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
             <Size X="260.0000" Y="120.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="489.2303" Y="814.3418" />
+            <Position X="489.2160" Y="814.3680" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="230" G="230" B="250" />
             <PrePosition X="0.7644" Y="0.8483" />

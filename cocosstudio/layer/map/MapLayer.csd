@@ -1,5 +1,5 @@
 <GameProjectFile>
-  <PropertyGroup Type="Layer" Name="MapLayer" ID="41a23d2f-6adf-4480-982b-a0dff8dac261" Version="2.3.0.1" />
+  <PropertyGroup Type="Layer" Name="MapLayer" ID="41a23d2f-6adf-4480-982b-a0dff8dac261" Version="2.3.2.3" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
