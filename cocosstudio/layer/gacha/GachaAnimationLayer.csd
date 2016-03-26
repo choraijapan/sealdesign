@@ -53,7 +53,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4971" Y="0.4637" />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="images/common/142Z14521-0.png" Plist="" />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
               <AbstractNodeData Name="Text_1" ActionTag="-492434679" Tag="14" IconVisible="False" LeftMargin="234.4841" RightMargin="248.5159" TopMargin="747.4742" BottomMargin="262.5258" FontSize="36" LabelText="Nice to meet you!!!" HorizontalAlignmentType="HT_Center" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ShadowEnabled="True" ctype="TextObjectData">

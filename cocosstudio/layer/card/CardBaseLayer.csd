@@ -27,7 +27,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4998" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/card/bg_house_night.jpg" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="bg_evolution_top_1" ActionTag="-1718788151" Tag="324" IconVisible="False" LeftMargin="25.0000" RightMargin="15.0000" TopMargin="175.9814" BottomMargin="808.0186" ctype="SpriteObjectData">
@@ -50,7 +50,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5078" Y="0.7782" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/card/bg_evolution_top.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="invite_bg_3" ActionTag="-486785353" Tag="352" IconVisible="False" LeftMargin="17.3940" RightMargin="20.6060" TopMargin="508.7015" BottomMargin="321.2985" ctype="SpriteObjectData">
@@ -317,7 +317,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5031" Y="0.6550" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/card/bg_questarea_webview.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Text_1" ActionTag="-2051591436" Tag="1207" IconVisible="False" LeftMargin="40.0000" RightMargin="465.0000" TopMargin="355.4926" BottomMargin="749.5074" FontSize="26" LabelText="戦力：2157" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -350,7 +350,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.0969" Y="0.7741" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/card/ArrowLeft_47x53.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="ArrowRight_47x53_19" ActionTag="258202537" Tag="1210" IconVisible="False" LeftMargin="560.9523" RightMargin="32.0477" TopMargin="228.4746" BottomMargin="854.5254" ctype="SpriteObjectData">
@@ -361,7 +361,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.9132" Y="0.7756" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/card/ArrowRight_47x53.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="BackButton" ActionTag="-1951492814" Tag="1211" IconVisible="False" LeftMargin="198.9894" RightMargin="181.0106" TopMargin="876.8315" BottomMargin="103.1685" TouchEnable="True" FontSize="60" ButtonText="BACK" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="230" Scale9Height="134" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
@@ -374,8 +374,7 @@
             <PreSize X="0.4063" Y="0.1373" />
             <TextColor A="255" R="255" G="255" B="0" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="images/common/btn_main_2.png" Plist="" />
-            <NormalFileData Type="Normal" Path="images/common/btn_main_1.png" Plist="" />
+            <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

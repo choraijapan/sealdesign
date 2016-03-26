@@ -89,7 +89,7 @@
                 <CColor A="255" R="255" G="255" B="0" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <ImageFileData Type="Normal" Path="images/common/hp_player.png" Plist="" />
+                <ImageFileData Type="Default" Path="Default/LoadingBarFile.png" Plist="" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
@@ -121,7 +121,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
                 <PreSize X="0.0000" Y="0.0000" />
-                <ImageFileData Type="Normal" Path="images/common/hp_player.png" Plist="" />
+                <ImageFileData Type="Default" Path="Default/LoadingBarFile.png" Plist="" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint />

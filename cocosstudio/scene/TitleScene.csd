@@ -26,7 +26,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="-0.1626" />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="images/top/bg_base.png" Plist="" />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                 <BlendFunc Src="770" Dst="771" />
               </AbstractNodeData>
               <AbstractNodeData Name="Particle_6" ActionTag="-875290500" Tag="715" IconVisible="True" LeftMargin="315.7928" RightMargin="324.2072" TopMargin="458.7773" BottomMargin="677.2227" ctype="ParticleObjectData">
@@ -50,8 +50,7 @@
                 <PreSize X="0.7266" Y="0.0528" />
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                <PressedFileData Type="Normal" Path="images/top/button_start.png" Plist="" />
-                <NormalFileData Type="Normal" Path="images/top/button_start.png" Plist="" />
+                <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>

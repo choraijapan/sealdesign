@@ -25,7 +25,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5056" Y="0.4812" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/common/bg_long.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="ProjectNode_1" ActionTag="-1164240145" Tag="68" IconVisible="True" VerticalEdge="TopEdge" LeftMargin="40.0000" RightMargin="600.0000" TopMargin="115.0000" BottomMargin="1021.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">

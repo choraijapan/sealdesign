@@ -37,7 +37,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/common/monster_thum_green.png" Plist="" />
+            <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="EnergyBar" ActionTag="194200381" Tag="30" RotationSkewY="0.0004" IconVisible="False" LeftMargin="-45.5000" RightMargin="-45.5000" TopMargin="34.0000" BottomMargin="-46.0000" ProgressInfo="0" ctype="LoadingBarObjectData">
             <Size X="91.0000" Y="12.0000" />

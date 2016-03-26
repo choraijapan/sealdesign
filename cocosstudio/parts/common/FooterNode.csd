@@ -6,93 +6,73 @@
       <ObjectData Name="Node" Tag="41" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Button_1" ActionTag="-1627313217" Tag="48" IconVisible="False" RightMargin="-105.0000" TopMargin="-105.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="75" Scale9Height="83" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
-            <Size X="105.0000" Y="105.0000" />
+          <AbstractNodeData Name="Button_1" ActionTag="-1627313217" Tag="48" IconVisible="False" RightMargin="-130.0000" TopMargin="-120.9999" BottomMargin="-0.0001" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="99" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
+            <Size X="130.0000" Y="121.0000" />
             <AnchorPoint />
-            <Position />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position Y="-0.0001" />
+            <Scale ScaleX="0.9000" ScaleY="0.9000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="images/common/footer_1_on.png" Plist="" />
-            <NormalFileData Type="Normal" Path="images/common/footer_1.png" Plist="" />
+            <NormalFileData Type="Normal" Path="images/common/ft_home.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Button_1_0" ActionTag="1074016545" Tag="49" IconVisible="False" LeftMargin="107.3295" RightMargin="-212.3295" TopMargin="-105.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="75" Scale9Height="83" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
-            <Size X="105.0000" Y="105.0000" />
+          <AbstractNodeData Name="Button_1_0" ActionTag="1074016545" Tag="49" IconVisible="False" LeftMargin="123.7450" RightMargin="-253.7450" TopMargin="-120.9999" BottomMargin="-0.0001" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="99" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
+            <Size X="130.0000" Y="121.0000" />
             <AnchorPoint />
-            <Position X="107.3295" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="123.7450" Y="-0.0001" />
+            <Scale ScaleX="0.9000" ScaleY="0.9000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="images/common/footer_2_on.png" Plist="" />
-            <NormalFileData Type="Normal" Path="images/common/footer_2.png" Plist="" />
+            <NormalFileData Type="Normal" Path="images/common/ft_card.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Button_1_1" ActionTag="-1176767847" Tag="50" IconVisible="False" LeftMargin="214.6588" RightMargin="-319.6588" TopMargin="-105.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="75" Scale9Height="83" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
-            <Size X="105.0000" Y="105.0000" />
+          <AbstractNodeData Name="Button_1_1" ActionTag="-1176767847" Tag="50" IconVisible="False" LeftMargin="247.4903" RightMargin="-377.4903" TopMargin="-120.9999" BottomMargin="-0.0001" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="99" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
+            <Size X="130.0000" Y="121.0000" />
             <AnchorPoint />
-            <Position X="214.6588" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="247.4903" Y="-0.0001" />
+            <Scale ScaleX="0.9000" ScaleY="0.9000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="images/common/footer_3_on.png" Plist="" />
-            <NormalFileData Type="Normal" Path="images/common/footer_3.png" Plist="" />
+            <NormalFileData Type="Normal" Path="images/common/ft_battle.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="CardsButton" ActionTag="-367659472" Tag="51" IconVisible="False" LeftMargin="321.9882" RightMargin="-426.9882" TopMargin="-105.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="75" Scale9Height="83" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
-            <Size X="105.0000" Y="105.0000" />
+          <AbstractNodeData Name="Button_Shop" ActionTag="-367659472" Tag="51" IconVisible="False" LeftMargin="372.2352" RightMargin="-502.2352" TopMargin="-120.9999" BottomMargin="-0.0001" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="99" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
+            <Size X="130.0000" Y="121.0000" />
             <AnchorPoint />
-            <Position X="321.9882" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="372.2352" Y="-0.0001" />
+            <Scale ScaleX="0.9000" ScaleY="0.9000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="images/common/footer_4_on.png" Plist="" />
-            <NormalFileData Type="Normal" Path="images/common/footer_4.png" Plist="" />
+            <NormalFileData Type="Normal" Path="images/common/ft_shop.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="GachaButton" ActionTag="768695925" Tag="52" IconVisible="False" LeftMargin="429.3176" RightMargin="-534.3176" TopMargin="-105.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="75" Scale9Height="83" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
-            <Size X="105.0000" Y="105.0000" />
+          <AbstractNodeData Name="Button_Guild" ActionTag="768695925" Tag="52" IconVisible="False" LeftMargin="496.9805" RightMargin="-626.9805" TopMargin="-120.9999" BottomMargin="-0.0001" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="100" Scale9Height="99" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
+            <Size X="130.0000" Y="121.0000" />
             <AnchorPoint />
-            <Position X="429.3176" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Position X="496.9805" Y="-0.0001" />
+            <Scale ScaleX="0.9000" ScaleY="0.9000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="images/common/footer_5_on.png" Plist="" />
-            <NormalFileData Type="Normal" Path="images/common/footer_5.png" Plist="" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Button_1_3_0" ActionTag="-1075969455" Tag="53" IconVisible="False" LeftMargin="536.6471" RightMargin="-641.6471" TopMargin="-105.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="75" Scale9Height="83" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
-            <Size X="105.0000" Y="105.0000" />
-            <AnchorPoint />
-            <Position X="536.6471" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="images/common/footer_6_on.png" Plist="" />
-            <NormalFileData Type="Normal" Path="images/common/footer_6.png" Plist="" />
+            <NormalFileData Type="Normal" Path="images/common/ft_guild.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

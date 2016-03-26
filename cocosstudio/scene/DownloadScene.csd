@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5031" Y="0.5018" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/top/bg_base.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="bg_contents_download_3" ActionTag="-992806661" Tag="570" IconVisible="False" LeftMargin="21.9093" RightMargin="22.0907" TopMargin="793.1857" BottomMargin="76.8143" ctype="SpriteObjectData">

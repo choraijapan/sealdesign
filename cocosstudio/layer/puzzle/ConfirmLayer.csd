@@ -37,7 +37,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5004" Y="0.5334" />
             <PreSize X="1.0000" Y="0.8333" />
-            <FileData Type="Normal" Path="images/common/list_frame1.png" Plist="" />
+            <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="MySelfButton" ActionTag="-1964100169" Tag="29" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="52.4319" RightMargin="327.5681" TopMargin="679.6791" BottomMargin="160.3209" TouchEnable="True" FontSize="48" ButtonText="ひとりで" Scale9Enable="True" LeftEage="20" RightEage="60" TopEage="30" BottomEage="30" Scale9OriginX="20" Scale9OriginY="30" Scale9Width="180" Scale9Height="96" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
             <Size X="260.0000" Y="120.0000" />
@@ -49,8 +49,7 @@
             <PreSize X="0.4063" Y="0.1250" />
             <TextColor A="255" R="255" G="255" B="0" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="images/common/main_l_btn2.png" Plist="" />
-            <NormalFileData Type="Normal" Path="images/common/main_l_btn1.png" Plist="" />
+            <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -64,8 +63,7 @@
             <PreSize X="0.4063" Y="0.1250" />
             <TextColor A="255" R="255" G="255" B="0" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="images/common/main_l_btn2.png" Plist="" />
-            <NormalFileData Type="Normal" Path="images/common/main_l_btn1.png" Plist="" />
+            <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -233,7 +231,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5473" Y="0.5911" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/common/battle_heart_icon.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Text_1_1" ActionTag="700279305" Tag="242" IconVisible="False" LeftMargin="390.1626" RightMargin="149.8374" TopMargin="377.5923" BottomMargin="559.4077" FontSize="20" LabelText="10,000,000" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="TextObjectData">
@@ -257,8 +255,7 @@
             <PreSize X="0.4063" Y="0.1250" />
             <TextColor A="255" R="255" G="255" B="0" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="images/common/main_l_btn2.png" Plist="" />
-            <NormalFileData Type="Normal" Path="images/common/main_l_btn1.png" Plist="" />
+            <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
