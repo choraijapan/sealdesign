@@ -17,10 +17,10 @@
             <FileData Type="Normal" Path="images/common/hd_level.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="hd_gold_2" ActionTag="-703899843" Tag="41" IconVisible="False" LeftMargin="257.1294" RightMargin="-477.1294" TopMargin="-65.4700" BottomMargin="2.4700" ctype="SpriteObjectData">
+          <AbstractNodeData Name="hd_gold_2" ActionTag="-703899843" Tag="41" IconVisible="False" LeftMargin="253.1295" RightMargin="-473.1295" TopMargin="-65.4700" BottomMargin="2.4700" ctype="SpriteObjectData">
             <Size X="220.0000" Y="63.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="367.1294" Y="33.9700" />
+            <Position X="363.1295" Y="33.9700" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -28,10 +28,10 @@
             <FileData Type="Normal" Path="images/common/hd_gold.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="hd_diamoned_3" ActionTag="609842507" Tag="42" IconVisible="False" LeftMargin="487.7095" RightMargin="-696.7095" TopMargin="-65.4701" BottomMargin="5.4701" ctype="SpriteObjectData">
+          <AbstractNodeData Name="hd_diamoned_3" ActionTag="609842507" Tag="42" IconVisible="False" LeftMargin="491.7095" RightMargin="-700.7095" TopMargin="-65.4701" BottomMargin="5.4701" ctype="SpriteObjectData">
             <Size X="209.0000" Y="60.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="592.2095" Y="35.4701" />
+            <Position X="596.2095" Y="35.4701" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -39,10 +39,10 @@
             <FileData Type="Normal" Path="images/common/hd_diamoned.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="label_UserGold" ActionTag="-2104673069" Tag="99" IconVisible="False" LeftMargin="340.1207" RightMargin="-451.1207" TopMargin="-48.5474" BottomMargin="19.5474" FontSize="25" LabelText="99999999" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="label_UserGold" ActionTag="-2104673069" Tag="99" IconVisible="False" LeftMargin="332.1207" RightMargin="-443.1207" TopMargin="-48.5474" BottomMargin="19.5474" FontSize="25" LabelText="99999999" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="TextObjectData">
             <Size X="111.0000" Y="29.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="395.6207" Y="34.0474" />
+            <Position X="387.6207" Y="34.0474" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
@@ -82,6 +82,26 @@
             <PreSize X="0.0000" Y="0.0000" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="26" G="26" B="26" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Image_1" ActionTag="359189557" Tag="100" IconVisible="False" LeftMargin="457.1842" RightMargin="-488.1842" TopMargin="-48.9003" BottomMargin="12.9003" Scale9Width="31" Scale9Height="36" ctype="ImageViewObjectData">
+            <Size X="31.0000" Y="36.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="472.6842" Y="30.9003" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="images/common/hd_add.png" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Image_2" ActionTag="-1687537249" Tag="101" IconVisible="False" LeftMargin="683.0398" RightMargin="-714.0398" TopMargin="-48.9006" BottomMargin="12.9006" Scale9Width="31" Scale9Height="36" ctype="ImageViewObjectData">
+            <Size X="31.0000" Y="36.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="698.5398" Y="30.9006" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="Normal" Path="images/common/hd_add.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

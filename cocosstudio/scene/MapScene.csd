@@ -209,7 +209,7 @@
         </Timeline>
       </Animation>
       <ObjectData Name="Scene" Tag="34" ctype="GameNodeObjectData">
-        <Size X="640.0000" Y="1136.0000" />
+        <Size X="750.0000" Y="1334.0000" />
         <Children>
           <AbstractNodeData Name="ScrollView" ActionTag="1287637070" Tag="120" IconVisible="False" TopMargin="-176.0000" TouchEnable="True" ComboBoxIndex="1" ColorAngle="90.0000" IsBounceEnabled="True" ScrollDirectionType="Vertical_Horizontal" ctype="ScrollViewObjectData">
             <Size X="640.0000" Y="1136.0000" />
@@ -222,7 +222,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4578" Y="0.4770" />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="images/map/rasen.png" Plist="" />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
               <AbstractNodeData Name="light" ActionTag="-2139039182" Tag="29" IconVisible="False" LeftMargin="707.7666" RightMargin="768.2334" TopMargin="-241.9802" BottomMargin="717.9802" ctype="SpriteObjectData">
@@ -271,7 +271,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5455" Y="0.1984" />
                     <PreSize X="0.0859" Y="0.0820" />
-                    <FileData Type="Normal" Path="images/map/MS02.png" Plist="" />
+                    <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="MS02" ActionTag="-70896647" Tag="67" IconVisible="False" LeftMargin="584.2077" RightMargin="351.7923" TopMargin="674.9525" BottomMargin="265.0475" Scale9Width="88" Scale9Height="84" ctype="ImageViewObjectData">
                     <Size X="88.0000" Y="84.0000" />
@@ -294,7 +294,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.6135" Y="0.2999" />
                     <PreSize X="0.0859" Y="0.0820" />
-                    <FileData Type="Normal" Path="images/map/MS02.png" Plist="" />
+                    <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="MS01_7_0" CanEdit="False" ActionTag="508863576" Tag="37" IconVisible="False" LeftMargin="449.6170" RightMargin="488.3830" TopMargin="607.2552" BottomMargin="332.7448" ctype="SpriteObjectData">
                     <Size X="86.0000" Y="84.0000" />
@@ -304,7 +304,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4811" Y="0.3660" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="MS01_7_1" ActionTag="-1525789291" Tag="38" IconVisible="False" LeftMargin="497.1367" RightMargin="440.8633" TopMargin="499.2577" BottomMargin="440.7423" ctype="SpriteObjectData">
@@ -315,7 +315,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5275" Y="0.4714" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="MS01_7_2" ActionTag="-412135130" Tag="39" IconVisible="False" LeftMargin="298.4215" RightMargin="639.5785" TopMargin="466.8586" BottomMargin="473.1414" ctype="SpriteObjectData">
@@ -326,7 +326,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.3334" Y="0.5031" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="MS01_7_3" ActionTag="1638591366" Tag="40" IconVisible="False" LeftMargin="434.4981" RightMargin="503.5019" TopMargin="397.7405" BottomMargin="542.2595" ctype="SpriteObjectData">
@@ -337,7 +337,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4663" Y="0.5706" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="MS01_7_4" ActionTag="339120197" Tag="41" IconVisible="False" LeftMargin="618.0945" RightMargin="319.9055" TopMargin="378.3010" BottomMargin="561.6990" ctype="SpriteObjectData">
@@ -348,7 +348,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.6456" Y="0.5895" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/map/MS01.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                 </Children>

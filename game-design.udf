@@ -31,15 +31,16 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
-          <FilePathData Path="layer/map/Map_0001.csd" />
           <FilePathData Path="scene/TopScene.csd" />
-          <FilePathData Path="layer/map/MapLayer.csd" />
-          <FilePathData Path="scene/puzzle/PauseScene.csd" />
+          <FilePathData Path="scene/DownloadScene.csd" />
+          <FilePathData Path="scene/TestScene.csd" />
           <FilePathData Path="scene/puzzle/PuzzleScene.csd" />
-          <FilePathData Path="parts/common/HeaderNode.csd" />
-          <FilePathData Path="parts/common/FooterNode.csd" />
+          <FilePathData Path="scene/puzzle/PauseScene.csd" />
+          <FilePathData Path="scene/puzzle/ResultScene.csd" />
+          <FilePathData Path="layer/puzzle/PuzzlePauseLayer.csd" />
+          <FilePathData Path="layer/puzzle/PuzzleUILayer.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="scene/TopScene.csd" />
+        <ActiveDocument Path="layer/puzzle/PuzzleUILayer.csd" />
       </Value>
     </Item>
   </Properties>

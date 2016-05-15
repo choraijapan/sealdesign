@@ -23,7 +23,6 @@
             <Image Name="weapon_menu_playerimage_sword.png" />
             <Image Name="weapon_menu_playerimage_twinsword.png" />
             <Image Name="weapon_menu_playerimage_wond.png" />
-            <Image Name="strengthen_result_monster_bg.png" />
             <Image Name="10196_1.png" />
             <Image Name="10196_2.png" />
             <Image Name="10196_3.png" />
@@ -50,7 +49,6 @@
             <Image Name="ft_guild.png" />
             <Image Name="ft_home.png" />
             <Image Name="ft_shop.png" />
-            <Image Name="hd_add.png" />
             <Image Name="hd_diamoned.png" />
             <Image Name="hd_exp.png" />
             <Image Name="hd_gold.png" />
@@ -58,25 +56,13 @@
             <Image Name="mp_bg.jpg" />
             <Image Name="mp_news.png" />
             <Image Name="mp_present.png" />
+            <Image Name="hd_add.png" />
           </Folder>
           <Folder Name="boss">
             <Image Name="20151018.png" />
             <Image Name="20151019.png" />
             <Image Name="boss_skill.png" />
             <Image Name="boss_skill_2.png" />
-          </Folder>
-          <Folder Name="top" />
-          <Folder Name="map">
-            <Image Name="rasen.png" />
-            <Image Name="MS01.png" />
-            <Image Name="MS02.png" />
-            <Image Name="08.png" />
-            <Image Name="09.png" />
-            <Image Name="Map_A_1 (1).png" />
-            <Image Name="Map_A_1 (2).png" />
-            <Image Name="map_A_1.png" />
-            <Image Name="map_A_2.png" />
-            <Image Name="world_map.jpg" />
           </Folder>
           <Folder Name="puzzle">
             <Folder Name="block">
@@ -90,6 +76,8 @@
               <Image Name="b_light.png" />
               <Image Name="b_tree.png" />
               <Image Name="b_water.png" />
+              <Image Name="ball_9999.png" />
+              <Image Name="boom_9999.png" />
             </Folder>
             <Folder Name="character_state">
               <Image Name="icon_attack.png" />
@@ -286,6 +274,8 @@
               <Image Name="bar_hp.png" />
               <Image Name="battle_menu_btn1.png" />
               <Image Name="battle_menu_btn2.png" />
+              <Image Name="statusBar.png" />
+              <Image Name="hpBar.png" />
             </Folder>
             <Folder Name="road">
               <Image Name="puzzle_road_1.jpg" />
@@ -370,6 +360,7 @@
             <Image Name="number_quest_xxlarge_red.png" />
             <Image Name="number_quest_xxlarge_yellow.png" />
             <Image Name="number_white_mini.png" />
+            <Fnt Name="mainFont.fnt" />
           </Folder>
           <Folder Name="particles">
             <PlistParticleFile Name="effect_prt_015.plist" />
@@ -551,6 +542,7 @@
         <Folder Name="parts">
           <Folder Name="puzzle">
             <Project Name="PuzzleCardNode.csd" Type="Node" />
+            <Project Name="StatusBar.csd" Type="Node" />
           </Folder>
           <Folder Name="common">
             <Project Name="CardNode.csd" Type="Node" />
@@ -582,6 +574,7 @@
           <Folder Name="puzzle">
             <Project Name="ConfirmLayer.csd" Type="Layer" />
             <Project Name="PuzzlePauseLayer.csd" Type="Layer" />
+            <Project Name="PuzzleUILayer.csd" Type="Layer" />
           </Folder>
           <Folder Name="map">
             <Project Name="Map_0001.csd" Type="Layer" />

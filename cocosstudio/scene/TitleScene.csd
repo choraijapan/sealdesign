@@ -12,14 +12,14 @@
           </ScaleFrame>
         </Timeline>
       </Animation>
-      <ObjectData Name="Scene" Tag="642" ctype="GameNodeObjectData">
-        <Size X="640.0000" Y="1136.0000" />
+      <ObjectData Name="Scene" Visible="False" Tag="642" ctype="GameNodeObjectData">
+        <Size X="750.0000" Y="1334.0000" />
         <Children>
-          <AbstractNodeData Name="PanelStart" ActionTag="259838925" Tag="711" IconVisible="False" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="PanelStart" ActionTag="259838925" Tag="711" IconVisible="False" RightMargin="110.0000" TopMargin="198.0000" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <Children>
               <AbstractNodeData Name="bg_base_16" ActionTag="-1344538284" Alpha="177" Tag="714" IconVisible="False" LeftMargin="-104.0480" RightMargin="-107.9520" ctype="SpriteObjectData">
-                <Size X="852.0000" Y="1136.0000" />
+                <Size X="46.0000" Y="46.0000" />
                 <AnchorPoint />
                 <Position X="-104.0480" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -40,11 +40,11 @@
                 <FileData Type="Normal" Path="images/particles/eff_page_1200_4.plist" Plist="" />
                 <BlendFunc Src="1" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="ButtonStart" ActionTag="1639431976" Tag="716" IconVisible="False" LeftMargin="89.6816" RightMargin="85.3184" TopMargin="904.2935" BottomMargin="171.7066" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="435" Scale9Height="38" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="ButtonStart" ActionTag="1639431976" Tag="716" IconVisible="False" LeftMargin="89.6816" RightMargin="85.3184" TopMargin="904.2935" BottomMargin="171.7066" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
                 <Size X="465.0000" Y="60.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="322.1816" Y="201.7066" />
-                <Scale ScaleX="1.1024" ScaleY="1.1024" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5034" Y="0.1776" />
                 <PreSize X="0.7266" Y="0.0528" />
@@ -60,13 +60,13 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
-            <PreSize X="1.0000" Y="1.0000" />
+            <PreSize X="0.8533" Y="0.8516" />
             <SingleColor A="255" R="150" G="200" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="PanelNotice" ActionTag="-266291420" Tag="710" IconVisible="False" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+          <AbstractNodeData Name="PanelNotice" ActionTag="-266291420" Tag="710" IconVisible="False" RightMargin="110.0000" TopMargin="198.0000" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
             <Size X="640.0000" Y="1136.0000" />
             <Children>
               <AbstractNodeData Name="SpriteNotice" ActionTag="942886644" Tag="643" IconVisible="False" ctype="SpriteObjectData">
@@ -86,7 +86,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
-            <PreSize X="1.0000" Y="1.0000" />
+            <PreSize X="0.8533" Y="0.8516" />
             <SingleColor A="255" R="150" G="200" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />
             <EndColor A="255" R="255" G="255" B="255" />

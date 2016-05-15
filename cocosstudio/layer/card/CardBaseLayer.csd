@@ -61,7 +61,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4975" Y="0.4175" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/card/strengthen_result_monster_bg.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="PageView_1" ActionTag="1316417176" Tag="671" IconVisible="False" LeftMargin="34.0000" RightMargin="36.0000" TopMargin="520.0000" BottomMargin="336.0000" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" ScrollDirectionType="0" ctype="PageViewObjectData">
