@@ -17,6 +17,7 @@
           <Project Name="TestScene.csd" Type="Scene" />
         </Folder>
         <Folder Name="images">
+<<<<<<< 07339a190ceabcd7590c7310e9b5ac2761eb2c83
           <Folder Name="card">
             <Image Name="weapon_menu_playerimage_arrow.png" />
             <Image Name="weapon_menu_playerimage_axe.png" />
@@ -43,6 +44,9 @@
             <Image Name="10241_1.png" />
             <Image Name="10241_2.png" />
           </Folder>
+=======
+          <Folder Name="card" />
+>>>>>>> [老婆回来啦] 发奋图强
           <Folder Name="common">
             <Image Name="ft_battle.png" />
             <Image Name="ft_card.png" />
@@ -59,10 +63,9 @@
             <Image Name="hd_add.png" />
           </Folder>
           <Folder Name="boss">
-            <Image Name="20151018.png" />
-            <Image Name="20151019.png" />
             <Image Name="boss_skill.png" />
             <Image Name="boss_skill_2.png" />
+<<<<<<< 07339a190ceabcd7590c7310e9b5ac2761eb2c83
           </Folder>
           <Folder Name="puzzle">
             <Folder Name="block">
@@ -95,6 +98,12 @@
               <Image Name="icon_down_attack_2.png" />
               <Image Name="icon_down_attack_3.png" />
             </Folder>
+=======
+            <Image Name="hanberg.png" />
+          </Folder>
+          <Folder Name="puzzle">
+            <Folder Name="block" />
+>>>>>>> [老婆回来啦] 发奋图强
             <Folder Name="effect">
               <Image Name="layer_alert.png" />
               <Image Name="layer_dark.png" />
@@ -197,72 +206,12 @@
                 <Image Name="puzzle.png" />
               </Folder>
             </Folder>
-            <Folder Name="text">
-              <Image Name="number_quest_small_dot_green.png" />
-              <Image Name="number_quest_small_dot_white.png" />
-              <Image Name="number_quest_small_x_green.png" />
-              <Image Name="number_quest_small_x_white.png" />
-              <Image Name="skill_text_on.png" />
-              <Image Name="skill_text_rest.png" />
-              <Image Name="slash_white_mini.png" />
-              <Image Name="text_bravelychain.png" />
-              <Image Name="text_chain.png" />
-              <Image Name="text_chain_blue.png" />
-              <Image Name="text_chain_green.png" />
-              <Image Name="text_chain_purewhite.png" />
-              <Image Name="text_chain_red.png" />
-              <Image Name="text_chain_yellow.png" />
-              <Image Name="text_combo.png" />
-              <Image Name="text_critical.png" />
-              <Image Name="text_down.png" />
-              <Image Name="text_floor_large.png" />
-              <Image Name="text_floor_medium_multiquest.png" />
-              <Image Name="text_friend_monster.png" />
-              <Image Name="text_hit.png" />
-              <Image Name="text_kaihuku_plus.png" />
-              <Image Name="text_medium_max.png" />
-              <Image Name="text_menu.png" />
-              <Image Name="text_miss.png" />
-              <Image Name="text_rare_get.png" />
-              <Image Name="text_skill_max.png" />
-              <Image Name="text_slash_large.png" />
-              <Image Name="text_slash_medium.png" />
-              <Image Name="text_slash_medium_white.png" />
-              <Image Name="text_super_rare_get.png" />
-              <Image Name="text_super_special_rare_get.png" />
-              <Image Name="text_turn.png" />
-              <Image Name="text_turn_few.png" />
-              <Image Name="text_turn_over.png" />
-              <Image Name="text_turn_white.png" />
-            </Folder>
+            <Folder Name="text" />
             <Folder Name="ui">
-              <Image Name="bg_hp_meter_field.png" />
-              <Image Name="bg_hp_meter_field_boss.png" />
-              <Image Name="bg_hp_meter_field_boss_short.png" />
-              <Image Name="bg_hp_meter_player.png" />
-              <Image Name="bg_pause_dialog.png" />
-              <Image Name="bg_questtitle.png" />
-              <Image Name="bg_quest_help.png" />
-              <Image Name="boss_gauge_blue.png" />
-              <Image Name="boss_gauge_green.png" />
-              <Image Name="boss_gauge_red.png" />
-              <Image Name="boss_gauge_small_blue.png" />
-              <Image Name="boss_gauge_small_green.png" />
-              <Image Name="boss_gauge_small_red.png" />
-              <Image Name="boss_gauge_small_yellow.png" />
-              <Image Name="boss_gauge_yellow.png" />
-              <Image Name="button_challenge_boss.png" />
-              <Image Name="button_close_skill_window.png" />
-              <Image Name="button_escape_boss.png" />
-              <Image Name="enemy_gauge_bg.png" />
-              <Image Name="enemy_gauge_blue.png" />
-              <Image Name="enemy_gauge_green.png" />
-              <Image Name="enemy_gauge_red.png" />
-              <Image Name="enemy_gauge_yellow.png" />
-              <Image Name="frame_questmenu.png" />
-              <Image Name="gauge_chara_under_hp_green.png" />
-              <Image Name="gauge_chara_under_hp_red.png" />
+              <Image Name="statusBar.png" />
+              <Image Name="hpBar.png" />
               <Image Name="gauge_green.png" />
+<<<<<<< 07339a190ceabcd7590c7310e9b5ac2761eb2c83
               <Image Name="gauge_green_energe.png" />
               <Image Name="gauge_green_header_status_result_scene.png" />
               <Image Name="gauge_monster_thumbnail.png" />
@@ -276,70 +225,12 @@
               <Image Name="battle_menu_btn2.png" />
               <Image Name="statusBar.png" />
               <Image Name="hpBar.png" />
+=======
+              <Image Name="boss_gauge_green.png" />
+>>>>>>> [老婆回来啦] 发奋图强
             </Folder>
             <Folder Name="road">
-              <Image Name="puzzle_road_1.jpg" />
-              <Image Name="puzzle_road_2.jpg" />
-              <Image Name="puzzle_road_3.jpg" />
-              <Image Name="puzzle_road_4.jpg" />
-              <Image Name="puzzle_road_5.jpg" />
-              <Image Name="puzzle_road_6.jpg" />
-              <Image Name="puzzle_road_7.jpg" />
-              <Image Name="puzzle_road_8.jpg" />
-              <Folder Name="image">
-                <Image Name="bg.png" />
-                <Image Name="floor_f0.png" />
-                <Image Name="floor_f0_02.png" />
-                <Image Name="floor_n0.png" />
-                <Image Name="obj0.png" />
-                <Image Name="obj1.png" />
-                <Image Name="obj2.png" />
-                <Image Name="obj3.png" />
-              </Folder>
-              <Folder Name="001">
-                <Image Name="bottom.png" />
-                <Image Name="map.jpg" />
-                <Image Name="middle.png" />
-                <Image Name="object_1.png" />
-                <Image Name="object_2.png" />
-                <Image Name="object_3.png" />
-                <Image Name="object_4.png" />
-                <Image Name="object_5.png" />
-                <Image Name="sample.png" />
-                <Image Name="top.png" />
-              </Folder>
-              <Folder Name="002">
-                <Image Name="bottom.png" />
-                <Image Name="download.jpg" />
-                <Image Name="map.jpg" />
-                <Image Name="middle.png" />
-                <Image Name="object_1.png" />
-                <Image Name="object_2.png" />
-                <Image Name="sample.png" />
-                <Image Name="top.png" />
-              </Folder>
-              <Folder Name="003">
-                <Image Name="bottom.png" />
-                <Image Name="map.jpg" />
-                <Image Name="middle.png" />
-                <Image Name="object_1.png" />
-                <Image Name="object_2.png" />
-                <Image Name="object_3.png" />
-                <Image Name="object_4.png" />
-                <Image Name="object_5.png" />
-                <Image Name="sample.png" />
-                <Image Name="top.png" />
-              </Folder>
-              <Folder Name="004">
-                <Image Name="bottom.png" />
-                <Image Name="map.jpg" />
-                <Image Name="middle.png" />
-                <Image Name="object_1.png" />
-                <Image Name="object_2.png" />
-                <Image Name="object_3.png" />
-                <Image Name="sample.png" />
-                <Image Name="top.png" />
-              </Folder>
+              <Image Name="puzzleBg.jpg" />
             </Folder>
           </Folder>
           <Folder Name="font">
@@ -485,44 +376,6 @@
             <PlistParticleFile Name="eff_page_724_3.plist" />
             <PlistParticleFile Name="eff_page_900.plist" />
           </Folder>
-          <Folder Name="download">
-            <Folder Name="images">
-              <Image Name="bar_contents_download.png" />
-              <Image Name="bar_contents_download1.png" />
-              <Image Name="bar_contents_download2.png" />
-              <Image Name="bg_area_download.png" />
-              <Image Name="bg_contents_download.png" />
-              <Image Name="bg_delete_download.png" />
-              <Image Name="bg_repair_download.png" />
-              <Image Name="font_32pt_download.png" />
-              <Image Name="logo_pocodan_s.png" />
-              <Image Name="tips_bg.png" />
-              <Image Name="tips_content_001.png" />
-              <Image Name="tips_content_002.png" />
-              <Image Name="tips_content_003.png" />
-              <Image Name="tips_content_004.png" />
-              <Image Name="tips_content_005.png" />
-              <Image Name="tips_content_006.png" />
-              <Image Name="tips_content_007.png" />
-              <Image Name="tips_content_008.png" />
-              <Image Name="tips_content_009.png" />
-              <Image Name="tips_content_010.png" />
-              <Image Name="tips_content_011.png" />
-              <Image Name="tips_content_012.png" />
-              <Image Name="tips_title_001.png" />
-              <Image Name="tips_title_002.png" />
-              <Image Name="tips_title_003.png" />
-              <Image Name="tips_title_004.png" />
-              <Image Name="tips_title_005.png" />
-              <Image Name="tips_title_006.png" />
-              <Image Name="tips_title_007.png" />
-              <Image Name="tips_title_008.png" />
-              <Image Name="tips_title_009.png" />
-              <Image Name="tips_title_010.png" />
-              <Image Name="tips_title_011.png" />
-              <Image Name="tips_title_012.png" />
-            </Folder>
-          </Folder>
           <Folder Name="title">
             <Folder Name="images">
               <Image Name="notice_image_1136.jpg" />
@@ -565,9 +418,7 @@
             <Project Name="GachaLayer.csd" Type="Layer" />
             <Project Name="GachaAnimationLayer.csd" Type="Layer" />
           </Folder>
-          <Folder Name="card">
-            <Project Name="CardBaseLayer.csd" Type="Layer" />
-          </Folder>
+          <Folder Name="card" />
           <Folder Name="common">
             <Project Name="BlockLayer.csd" Type="Layer" />
           </Folder>
@@ -575,11 +426,12 @@
             <Project Name="ConfirmLayer.csd" Type="Layer" />
             <Project Name="PuzzlePauseLayer.csd" Type="Layer" />
             <Project Name="PuzzleUILayer.csd" Type="Layer" />
+<<<<<<< 07339a190ceabcd7590c7310e9b5ac2761eb2c83
+=======
+            <Project Name="PuzzleLayer.csd" Type="Layer" />
+>>>>>>> [老婆回来啦] 发奋图强
           </Folder>
-          <Folder Name="map">
-            <Project Name="Map_0001.csd" Type="Layer" />
-            <Project Name="MapLayer.csd" Type="Layer" />
-          </Folder>
+          <Folder Name="map" />
         </Folder>
       </RootFolder>
     </Group>

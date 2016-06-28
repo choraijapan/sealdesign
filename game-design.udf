@@ -31,6 +31,7 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
+<<<<<<< 07339a190ceabcd7590c7310e9b5ac2761eb2c83
           <FilePathData Path="scene/TopScene.csd" />
           <FilePathData Path="scene/DownloadScene.csd" />
           <FilePathData Path="scene/TestScene.csd" />
@@ -41,6 +42,12 @@
           <FilePathData Path="layer/puzzle/PuzzleUILayer.csd" />
         </OpenedDocuments>
         <ActiveDocument Path="layer/puzzle/PuzzleUILayer.csd" />
+=======
+          <FilePathData Path="scene/puzzle/PuzzleScene.csd" />
+          <FilePathData Path="layer/puzzle/PuzzleLayer.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="scene/puzzle/PuzzleScene.csd" />
+>>>>>>> [老婆回来啦] 发奋图强
       </Value>
     </Item>
   </Properties>

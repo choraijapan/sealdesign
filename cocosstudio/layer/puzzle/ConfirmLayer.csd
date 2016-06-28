@@ -165,7 +165,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5008" Y="0.7876" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/boss/20151018.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Particle_1" ActionTag="-614306803" Tag="303" IconVisible="True" LeftMargin="305.7672" RightMargin="334.2328" TopMargin="237.6921" BottomMargin="722.3079" ctype="ParticleObjectData">

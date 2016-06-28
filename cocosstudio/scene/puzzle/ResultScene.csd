@@ -6,6 +6,7 @@
       <ObjectData Name="Scene" Tag="42" ctype="GameNodeObjectData">
         <Size X="750.0000" Y="1334.0000" />
         <Children>
+<<<<<<< 07339a190ceabcd7590c7310e9b5ac2761eb2c83
           <AbstractNodeData Name="bg_result_3" ActionTag="-2107503043" Alpha="179" Tag="66" IconVisible="False" LeftMargin="-111.5411" RightMargin="-100.4589" TopMargin="-0.0001" BottomMargin="0.0001" ctype="SpriteObjectData">
             <Size X="852.0000" Y="1136.0000" />
             <AnchorPoint />
@@ -28,6 +29,8 @@
             <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
+=======
+>>>>>>> [老婆回来啦] 发奋图强
           <AbstractNodeData Name="ProjectNode_1" ActionTag="-1164240145" Tag="68" IconVisible="True" VerticalEdge="TopEdge" LeftMargin="40.0000" RightMargin="600.0000" TopMargin="115.0000" BottomMargin="1021.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <AnchorPoint />

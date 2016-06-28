@@ -3,7 +3,11 @@
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
+<<<<<<< 07339a190ceabcd7590c7310e9b5ac2761eb2c83
       <ObjectData Name="Scene" Tag="42" ctype="GameNodeObjectData">
+=======
+      <ObjectData Name="Scene" Visible="False" Tag="42" ctype="GameNodeObjectData">
+>>>>>>> [老婆回来啦] 发奋图强
         <Size X="750.0000" Y="1334.0000" />
         <Children>
           <AbstractNodeData Name="PuzzlePauseLayer" ActionTag="1296948688" Tag="43" IconVisible="True" RightMargin="110.0000" TopMargin="374.0000" InnerActionSpeed="1.0000" ctype="ProjectNodeObjectData">

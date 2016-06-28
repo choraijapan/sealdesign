@@ -27,7 +27,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/card/weapon_menu_playerimage_sword.png" Plist="" />
+            <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="CardFrame" CanEdit="False" ActionTag="-1004051412" Tag="33" IconVisible="False" LeftMargin="-50.0000" RightMargin="-50.0000" TopMargin="-50.0000" BottomMargin="-50.0000" Scale9Width="100" Scale9Height="100" ctype="ImageViewObjectData">
             <Size X="100.0000" Y="100.0000" />
@@ -47,7 +47,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
-            <ImageFileData Type="Normal" Path="images/puzzle/ui/gauge_green_energe.png" Plist="" />
+            <ImageFileData Type="Default" Path="Default/LoadingBarFile.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

@@ -25,7 +25,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4999" Y="0.1847" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/download/images/bg_contents_download.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="PageView" ActionTag="-743776455" Tag="622" IconVisible="False" RightMargin="110.0000" TopMargin="524.0000" BottomMargin="510.0000" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="598" Scale9Height="426" ScrollDirectionType="0" ctype="PageViewObjectData">
@@ -42,7 +42,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5162" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_bg.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="tips_content_001_15" ActionTag="507538285" Tag="620" IconVisible="False" LeftMargin="43.0000" RightMargin="47.0000" TopMargin="11.0000" BottomMargin="-45.0000" ctype="SpriteObjectData">
@@ -53,7 +53,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4969" Y="0.4067" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_content_008.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="tips_title_008_33" ActionTag="-123938240" Tag="641" IconVisible="False" LeftMargin="49.1723" RightMargin="105.8276" TopMargin="-38.5005" BottomMargin="299.5005" ctype="SpriteObjectData">
@@ -64,7 +64,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4557" Y="1.0633" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_title_008.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                 </Children>
@@ -90,7 +90,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5162" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_bg.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="tips_content_001_15_21" ActionTag="-597416602" Tag="630" IconVisible="False" LeftMargin="43.0000" RightMargin="47.0000" TopMargin="11.0000" BottomMargin="-45.0000" ctype="SpriteObjectData">
@@ -101,7 +101,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4969" Y="0.4067" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_content_003.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="tips_title_004_32" ActionTag="1564035829" Tag="640" IconVisible="False" LeftMargin="54.6468" RightMargin="100.3532" TopMargin="-39.1500" BottomMargin="300.1500" ctype="SpriteObjectData">
@@ -112,7 +112,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4643" Y="1.0655" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_title_004.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                 </Children>
@@ -138,7 +138,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5162" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_bg.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="tips_content_001_15_25" ActionTag="1925322267" Tag="633" IconVisible="False" LeftMargin="43.0000" RightMargin="47.0000" TopMargin="11.0000" BottomMargin="-45.0000" ctype="SpriteObjectData">
@@ -149,7 +149,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4969" Y="0.4067" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_content_001.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="tips_title_001_30" ActionTag="1463836058" Tag="638" IconVisible="False" LeftMargin="56.1658" RightMargin="98.8342" TopMargin="-40.7679" BottomMargin="301.7679" ctype="SpriteObjectData">
@@ -160,7 +160,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4667" Y="1.0709" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_title_001.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                 </Children>
@@ -186,7 +186,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5162" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_bg.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="tips_content_001_15_29" ActionTag="-1662394514" Tag="636" IconVisible="False" LeftMargin="43.0000" RightMargin="47.0000" TopMargin="11.0000" BottomMargin="-45.0000" ctype="SpriteObjectData">
@@ -197,7 +197,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4969" Y="0.4067" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_content_002.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="tips_title_002_31" ActionTag="153702565" Tag="639" IconVisible="False" LeftMargin="49.5635" RightMargin="105.4365" TopMargin="-42.4191" BottomMargin="303.4191" ctype="SpriteObjectData">
@@ -208,7 +208,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.4563" Y="1.0764" />
                     <PreSize X="0.0000" Y="0.0000" />
-                    <FileData Type="Normal" Path="images/download/images/tips_title_002.png" Plist="" />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                 </Children>
@@ -243,7 +243,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5002" Y="0.2676" />
             <PreSize X="0.7281" Y="0.0176" />
-            <ImageFileData Type="Normal" Path="images/download/images/bar_contents_download1.png" Plist="" />
+            <ImageFileData Type="Default" Path="Default/LoadingBarFile.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
