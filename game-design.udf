@@ -28,5 +28,16 @@
         <LastRunType Value="Mac" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="scene/puzzle/PuzzleScene.csd" />
+          <FilePathData Path="layer/puzzle/PuzzleUILayer.csd" />
+          <FilePathData Path="scene/puzzle/PauseScene.csd" />
+          <FilePathData Path="parts/puzzle/StatusBar.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="scene/puzzle/PuzzleScene.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>
