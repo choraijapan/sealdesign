@@ -14,7 +14,6 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="-0.0029" Y="-0.0361" />
             <PreSize X="1.0000" Y="1.0000" />
-            <FileData Type="Normal" Path="layer/card/CardBaseLayer.csd" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

@@ -1,5 +1,5 @@
 <GameProjectFile>
-  <PropertyGroup Type="Node" Name="StatusBar" ID="93ce3d8b-e4ec-4da5-9d78-13d8031aaeac" Version="2.3.2.3" />
+  <PropertyGroup Type="Node" Name="StatusBar_0" ID="756db66a-46ee-465c-87c7-ac567eeacc87" Version="2.3.2.3" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -28,7 +28,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="79" G="51" B="0" />
           </AbstractNodeData>
-          <AbstractNodeData Name="LoadingBar" ActionTag="-1661683275" Tag="446" IconVisible="False" LeftMargin="182.5000" RightMargin="-725.5000" TopMargin="-32.8806" BottomMargin="3.8806" ProgressInfo="0" ctype="LoadingBarObjectData">
+          <AbstractNodeData Name="LoadingBar_Hp" ActionTag="-1661683275" Tag="446" IconVisible="False" LeftMargin="182.5000" RightMargin="-725.5000" TopMargin="-32.8806" BottomMargin="3.8806" ProgressInfo="100" ctype="LoadingBarObjectData">
             <Size X="543.0000" Y="29.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="454.0000" Y="18.3806" />

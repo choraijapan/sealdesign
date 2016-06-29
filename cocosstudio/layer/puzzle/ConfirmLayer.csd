@@ -165,7 +165,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5008" Y="0.7876" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/boss/20151018.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Particle_1" ActionTag="-614306803" Tag="303" IconVisible="True" LeftMargin="305.7672" RightMargin="334.2328" TopMargin="237.6921" BottomMargin="722.3079" ctype="ParticleObjectData">
@@ -187,7 +187,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.1230" Y="0.5911" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/boss/boss_skill.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="boss_skill_2_3" ActionTag="434172830" Tag="238" IconVisible="False" LeftMargin="46.4609" RightMargin="529.5391" TopMargin="432.2544" BottomMargin="463.7456" ctype="SpriteObjectData">
@@ -198,7 +198,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.1226" Y="0.5164" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/boss/boss_skill_2.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Text_1" ActionTag="-1901058872" Tag="239" IconVisible="False" LeftMargin="124.3342" RightMargin="364.6658" TopMargin="359.5923" BottomMargin="531.4077" FontSize="20" LabelText="5秒一回の攻撃、&#xA;小ダーメージ&#xA;1200点" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="TextObjectData">

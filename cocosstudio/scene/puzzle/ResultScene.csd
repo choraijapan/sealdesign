@@ -14,7 +14,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="-0.1743" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/puzzle/ui/bg_result.jpg" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="bg_pause_dialog_1" ActionTag="-229984975" Tag="20" IconVisible="False" LeftMargin="44.5646" RightMargin="37.4354" TopMargin="308.3229" BottomMargin="265.6771" ctype="SpriteObjectData">

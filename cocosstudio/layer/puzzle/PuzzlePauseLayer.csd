@@ -43,8 +43,7 @@
                 <PreSize X="0.0400" Y="0.0120" />
                 <TextColor A="255" R="255" G="255" B="0" />
                 <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                <PressedFileData Type="Normal" Path="images/puzzle/ui/button_challenge_boss.png" Plist="" />
-                <NormalFileData Type="Normal" Path="images/puzzle/ui/button_challenge_boss.png" Plist="" />
+                <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -55,7 +54,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5039" Y="0.5832" />
             <PreSize X="0.7440" Y="0.3328" />
-            <FileData Type="Normal" Path="images/puzzle/ui/bg_pause_dialog.png" Plist="" />
+            <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

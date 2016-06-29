@@ -27,7 +27,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4998" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/gacha/bg_base.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="win_language_4" ActionTag="-36390577" Tag="46" IconVisible="False" LeftMargin="23.6951" RightMargin="15.3049" TopMargin="199.6579" BottomMargin="286.3421" ctype="SpriteObjectData">
@@ -38,7 +38,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5066" Y="0.5382" />
             <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="images/gacha/win_language.png" Plist="" />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="ListView_1" ActionTag="645873553" Tag="331" IconVisible="False" LeftMargin="35.0000" RightMargin="25.0000" TopMargin="361.0000" BottomMargin="425.0000" TouchEnable="True" ClipAble="True" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="601" Scale9Height="650" ScrollDirectionType="0" ctype="ListViewObjectData">
@@ -71,8 +71,7 @@
                         <PreSize X="0.0000" Y="0.0000" />
                         <TextColor A="255" R="255" G="255" B="0" />
                         <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                        <PressedFileData Type="Normal" Path="images/gacha/gacha_normal_summons_btn2.png" Plist="" />
-                        <NormalFileData Type="Normal" Path="images/gacha/gacha_normal_summons_btn1.png" Plist="" />
+                        <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
@@ -123,8 +122,7 @@
                         <PreSize X="0.0000" Y="0.0000" />
                         <TextColor A="255" R="255" G="255" B="0" />
                         <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                        <PressedFileData Type="Normal" Path="images/gacha/gacha_rare_summons_btn2.png" Plist="" />
-                        <NormalFileData Type="Normal" Path="images/gacha/gacha_rare_summons_btn1.png" Plist="" />
+                        <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
@@ -170,8 +168,7 @@
             <PreSize X="0.3906" Y="0.1224" />
             <TextColor A="255" R="255" G="255" B="0" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="images/gacha/win_button_close.png" Plist="" />
-            <NormalFileData Type="Normal" Path="images/gacha/win_button_close.png" Plist="" />
+            <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
