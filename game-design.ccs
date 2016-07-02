@@ -10,7 +10,6 @@
             <Project Name="PuzzleScene.csd" Type="Scene" />
             <Project Name="PauseScene.csd" Type="Scene" />
           </Folder>
-          <Project Name="MapScene.csd" Type="Scene" />
           <Project Name="TopScene.csd" Type="Scene" />
           <Project Name="DownloadScene.csd" Type="Scene" />
           <Project Name="TitleScene.csd" Type="Scene" />
@@ -146,6 +145,7 @@
             <Folder Name="ui">
               <Image Name="statusBar.png" />
               <Image Name="hpBar.png" />
+              <Image Name="bg.png" />
             </Folder>
           </Folder>
           <Folder Name="font">
@@ -297,6 +297,10 @@
               <Image Name="notice_image_960.jpg" />
             </Folder>
           </Folder>
+          <Folder Name="map">
+            <Image Name="sopt.png" />
+            <Image Name="map.jpg" />
+          </Folder>
         </Folder>
         <Folder Name="parts">
           <Folder Name="puzzle">
@@ -337,7 +341,6 @@
             <Project Name="PuzzleUILayer.csd" Type="Layer" />
           </Folder>
           <Folder Name="map">
-            <Project Name="Map_0001.csd" Type="Layer" />
             <Project Name="MapLayer.csd" Type="Layer" />
           </Folder>
         </Folder>
